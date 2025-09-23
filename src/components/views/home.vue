@@ -6,6 +6,6 @@
 </template>
 
 <script setup>
-import Navbar from '@/components/Navbar.vue'
+import Navbar from '@/components/uicomponents/navbar.vue'
 import HeroSection from '@/components/HeroSection.vue'
 </script>

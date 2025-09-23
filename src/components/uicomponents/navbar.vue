@@ -3,10 +3,11 @@
     <!-- Top Bar -->
     <div class="top-bar">
       <div class="left">SIRKM'25</div>
-      <div class="right">SEMINAR ON INFORMATION RETRIEVAL AND KNOWLEDGE MANAGEMENT 2025</div>
+      <div class="text-red-500">
+        SEMINAR ON INFORMATION RETRIEVAL AND KNOWLEDGE MANAGEMENT 2025
+      </div>
     </div>
 
-    <!-- Logo + Navigation -->
     <div class="nav-container">
       <!-- Logo -->
       <div class="logo">
@@ -20,8 +21,14 @@
         <ul>
           <li><router-link to="/">HOME</router-link></li>
           <li><router-link to="/calls">CALLS</router-link></li>
-          <li><router-link to="/invited-speaker">INVITED SPEAKER</router-link></li>
-          <li><router-link to="/abstract-submission">ABSTRACT SUBMISSION</router-link></li>
+          <li>
+            <router-link to="/invited-speaker">INVITED SPEAKER</router-link>
+          </li>
+          <li>
+            <router-link to="/abstract-submission"
+              >ABSTRACT SUBMISSION</router-link
+            >
+          </li>
           <li><router-link to="/programme">PROGRAMME</router-link></li>
           <li><router-link to="/registration">REGISTRATION</router-link></li>
           <li><router-link to="/committee">COMMITTEE</router-link></li>
