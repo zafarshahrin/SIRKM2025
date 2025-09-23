@@ -16,9 +16,9 @@
       </div>
     </div>
     <div class="w-full flex justify-center">
-      <div class="w-[55%] flex items-center justify-between">
+      <div class="w-[60%] flex items-center justify-between">
         <!-- Logo -->
-        <div class="logo">
+        <div class="logo shrink-0">
           <router-link to="/">
             <img
               src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/logo-sirkmbaru.png"

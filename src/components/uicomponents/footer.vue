@@ -14,7 +14,7 @@
         <a href="#" class="hover:text-gray-400">Media</a>
       </div>
             <!-- Logo -->
-        <div class="logo">
+        <div class="shrink-0">
           <router-link to="/">
             <img src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/sirkmlogowhitefooter.png" alt="SIRKM Logo" />
           </router-link>
