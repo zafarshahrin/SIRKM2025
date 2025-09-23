@@ -1,6 +1,6 @@
 <template>
   <Navbar></Navbar>
-  <div class="h-screen text-black"><router-view class="flex-1" /></div>
+  <main class="min-h-screen text-black pb-30"><router-view /></main>
   <Footer />
 </template>
 

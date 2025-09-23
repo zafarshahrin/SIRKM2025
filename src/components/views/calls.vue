@@ -18,8 +18,4 @@
   </div>
 </template>
 
-<script>
-export default {
-  name: "Calls",
-};
-</script>
+<script setup></script>

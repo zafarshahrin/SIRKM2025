@@ -16,7 +16,8 @@
           <i class="fa-solid fa-download"></i> GENERAL PROGRAMME SCHEDULE
         </a>
         <a href="#" download class="download-btn">
-          <i class="fa-solid fa-download"></i> PARALLEL SESSION 1 &amp; 2 SCHEDULE
+          <i class="fa-solid fa-download"></i> PARALLEL SESSION 1 &amp; 2
+          SCHEDULE
         </a>
         <a href="#" download class="download-btn">
           <i class="fa-solid fa-download"></i> PARALLEL SESSION 3 SCHEDULE
@@ -32,20 +33,22 @@
       <div class="container">
         <h2>Introduction</h2>
         <p>
-          The Seminar on Information Retrieval and Knowledge Management 2022 (SIRKM'22)
-          welcome all researchers to share their ongoing research and provide an opportunity
-          to share their work. SIRKM'22 aims to encourage knowledge sharing by providing a
-          platform for interactive discussions with experts in information retrieval,
-          knowledge management, and its related fields. It also hopes to encourage
-          community-building by connecting early and advanced researchers. SIRKM'22 is
-          jointly organised by the Universiti Kebangsaan Malaysia (UKM) and the Society
+          The Seminar on Information Retrieval and Knowledge Management 2022
+          (SIRKM'22) welcome all researchers to share their ongoing research and
+          provide an opportunity to share their work. SIRKM'22 aims to encourage
+          knowledge sharing by providing a platform for interactive discussions
+          with experts in information retrieval, knowledge management, and its
+          related fields. It also hopes to encourage community-building by
+          connecting early and advanced researchers. SIRKM'22 is jointly
+          organised by the Universiti Kebangsaan Malaysia (UKM) and the Society
           of Information Retrieval and Knowledge Management, Malaysia (PECAMP).
         </p>
         <p>
-          SIRKM was founded in 2017, is a PECAMP key event for the discussion of research
-          on information retrieval and knowledge management. Our past SIRKM were
-          SIRKM'20-Online (University of Malaya), SIRKM'18 (International Islamic
-          University Malaysia), and SIRKM'17 (Universiti Putra Malaysia).
+          SIRKM was founded in 2017, is a PECAMP key event for the discussion of
+          research on information retrieval and knowledge management. Our past
+          SIRKM were SIRKM'20-Online (University of Malaya), SIRKM'18
+          (International Islamic University Malaysia), and SIRKM'17 (Universiti
+          Putra Malaysia).
         </p>
       </div>
     </section>

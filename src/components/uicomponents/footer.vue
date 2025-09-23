@@ -44,8 +44,6 @@
         <a href="#" class="hover:text-gray-400">Facebook</a>
         <a href="#" class="hover:text-gray-400">Instagram</a>
       </div>
-
-    
       </div>
     </div>
   </footer>
