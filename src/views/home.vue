@@ -1,12 +1,11 @@
 <template>
   <div>
-    <h1>Home Page</h1>
-    <p>Welcome to SIRKM 2025!</p>
+   
+    <HeroSection />
   </div>
 </template>
 
-<script>
-export default {
-  name: "Home"
-};
+<script setup>
+import Navbar from '@/components/Navbar.vue'
+import HeroSection from '@/components/HeroSection.vue'
 </script>
