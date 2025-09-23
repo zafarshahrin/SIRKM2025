@@ -20,7 +20,9 @@
         <!-- Logo -->
         <div class="logo">
           <router-link to="/">
-            <img src="@/assets/logo.png" alt="SIRKM Logo" />
+            <img
+              src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/logo-sirkmbaru.png"
+              alt="SIRKM Logo" />
           </router-link>
         </div>
 
