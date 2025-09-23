@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router";
 
+import Layout from "../components/layout.vue";
 import Home from "../components/views/Home.vue";
 import Calls from "../components/views/Calls.vue";
 import InvitedSpeaker from "../components/views/InvitedSpeaker.vue";
@@ -10,22 +11,29 @@ import Committee from "../components/views/Committee.vue";
 import Media from "../components/views/Media.vue";
 
 const routes = [
-  { path: "/", name: "Home", component: Home },
-  { path: "/calls", name: "Calls", component: Calls },
   {
-    path: "/invited-speaker",
-    name: "InvitedSpeaker",
-    component: InvitedSpeaker,
+    path: "/",
+    component: Layout,
+    children: [
+      { path: "", redirect: "/home" }, // default redirect
+      { path: "home", name: "Home", component: Home },
+      { path: "calls", name: "Calls", component: Calls },
+      {
+        path: "invited-speaker",
+        name: "InvitedSpeaker",
+        component: InvitedSpeaker,
+      },
+      {
+        path: "abstract-submission",
+        name: "AbstractSubmission",
+        component: AbstractSubmission,
+      },
+      { path: "programme", name: "Programme", component: Programme },
+      { path: "registration", name: "Registration", component: Registration },
+      { path: "committee", name: "Committee", component: Committee },
+      { path: "media", name: "Media", component: Media },
+    ],
   },
-  {
-    path: "/abstract-submission",
-    name: "AbstractSubmission",
-    component: AbstractSubmission,
-  },
-  { path: "/programme", name: "Programme", component: Programme },
-  { path: "/registration", name: "Registration", component: Registration },
-  { path: "/committee", name: "Committee", component: Committee },
-  { path: "/media", name: "Media", component: Media },
 ];
 
 const router = createRouter({

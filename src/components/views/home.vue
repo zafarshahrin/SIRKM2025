@@ -1,11 +1,5 @@
 <template>
-  <div>
-   
-    <HeroSection />
-  </div>
+  <div>Home</div>
 </template>
 
-<script setup>
-import Navbar from '@/components/uicomponents/navbar.vue'
-import HeroSection from '@/components/HeroSection.vue'
-</script>
+<script setup></script>
