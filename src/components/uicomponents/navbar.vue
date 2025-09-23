@@ -16,7 +16,7 @@
       </div>
     </div>
     <div class="w-full flex justify-center">
-      <div class="w-[60%] flex items-center justify-between">
+      <div class="w-[55%] flex items-center justify-between gap-10 py-4">
         <!-- Logo -->
         <div class="logo shrink-0">
           <router-link to="/">
@@ -27,8 +27,8 @@
         </div>
 
         <!-- Navigation -->
-        <nav class="menu">
-          <ul>
+        <nav class="text-black text-[12px]">
+          <ul class="flex gap-4">
             <li><router-link to="/">HOME</router-link></li>
             <li><router-link to="/calls">CALLS</router-link></li>
             <li>
