@@ -1,17 +1,20 @@
 <template>
-  <div id="app">
+  <div id="app" class="h-screen flex flex-col">
     <Navbar />
-    <router-view />
+    <router-view class="flex-1" />
+    <Footer />
   </div>
 </template>
 
 <script>
-import Navbar from './components/uicomponents/navbar.vue';
+import Navbar from "./components/uicomponents/navbar.vue";
+import Footer from "./components/uicomponents/footer.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    Navbar
-  }
+    Navbar,
+    Footer,
+  },
 };
 </script>

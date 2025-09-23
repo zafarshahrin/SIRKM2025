@@ -1,40 +1,49 @@
 <template>
   <header class="header">
-    <!-- Top Bar -->
-    <div class="top-bar">
-      <div class="left">SIRKM'25</div>
-      <div class="text-red-500">
-        SEMINAR ON INFORMATION RETRIEVAL AND KNOWLEDGE MANAGEMENT 2025
+    <div class="flex justify-end items-center w-full">
+      <div class="flex w-[65%] items-center">
+        <!-- Black slanted div -->
+        <div
+          class="bg-black text-white font-bold flex items-center px-10 gap-8 pr-13"
+          style="clip-path: polygon(0% 0%, 100% 0%, 96% 100%, 4% 100%)">
+          <div class="pr-10 pl-5">SIRKM'25</div>
+          <div class="bg-amber-500 transform skew-x-40 px-4">
+            <div class="-skew-x-40 text-white px-4 py-2">
+              SEMINAR ON INFORMATION RETRIEVAL AND KNOWLEDGE MANAGEMENT 2025
+            </div>
+          </div>
+        </div>
       </div>
     </div>
+    <div class="w-full flex justify-center">
+      <div class="w-[55%] flex items-center justify-between">
+        <!-- Logo -->
+        <div class="logo">
+          <router-link to="/">
+            <img src="@/assets/logo.png" alt="SIRKM Logo" />
+          </router-link>
+        </div>
 
-    <div class="nav-container">
-      <!-- Logo -->
-      <div class="logo">
-        <router-link to="/">
-          <img src="@/assets/logo.png" alt="SIRKM Logo" />
-        </router-link>
+        <!-- Navigation -->
+        <nav class="menu">
+          <ul>
+            <li><router-link to="/">HOME</router-link></li>
+            <li><router-link to="/calls">CALLS</router-link></li>
+            <li>
+              <router-link to="/invited-speaker">INVITED SPEAKER</router-link>
+            </li>
+            <li>
+              <router-link to="/abstract-submission"
+                >ABSTRACT SUBMISSION</router-link
+              >
+            </li>
+            <li><router-link to="/programme">PROGRAMME</router-link></li>
+            <li><router-link to="/registration">REGISTRATION</router-link></li>
+            <li><router-link to="/committee">COMMITTEE</router-link></li>
+            <li><router-link to="/media">MEDIA</router-link></li>
+          </ul>
+        </nav>
       </div>
-
-      <!-- Navigation -->
-      <nav class="menu">
-        <ul>
-          <li><router-link to="/">HOME</router-link></li>
-          <li><router-link to="/calls">CALLS</router-link></li>
-          <li>
-            <router-link to="/invited-speaker">INVITED SPEAKER</router-link>
-          </li>
-          <li>
-            <router-link to="/abstract-submission"
-              >ABSTRACT SUBMISSION</router-link
-            >
-          </li>
-          <li><router-link to="/programme">PROGRAMME</router-link></li>
-          <li><router-link to="/registration">REGISTRATION</router-link></li>
-          <li><router-link to="/committee">COMMITTEE</router-link></li>
-          <li><router-link to="/media">MEDIA</router-link></li>
-        </ul>
-      </nav>
     </div>
   </header>
 </template>
