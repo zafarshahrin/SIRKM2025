@@ -8,7 +8,7 @@
           style="clip-path: polygon(0% 0%, 100% 0%, 96% 100%, 4% 100%)"
         >
           <div class="pr-4 pl-2 text-sm">SIRKM'25</div>
-          <div class="bg-amber-500 transform skew-x-20 px-2">
+          <div class="bg-purple-600 transform skew-x-20 px-2">
             <div class="-skew-x-20 text-white text-xs px-2 h-8 flex items-center">
               SEMINAR ON INFORMATION RETRIEVAL AND KNOWLEDGE MANAGEMENT 2025
             </div>

@@ -14,46 +14,48 @@
       </div>
     </section>
 
-    <!-- Download Buttons -->
-    <section class="downloads bg-white py-8 px-4 text-center">
-      <div class="flex justify-center flex-wrap gap-4">
-        <a
-          href="#"
-          download
-          class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
-        >
-          <i class="fa-solid fa-download"></i>
-          GENERAL PROGRAMME SCHEDULE
-        </a>
+<!-- Download Buttons -->
+<section class="downloads bg-white py-8 px-4 text-center">
+  <div class="flex justify-center flex-wrap gap-4">
+    <a
+      href="#"
+      download
+      class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
+    >
+      <i class="fa-solid fa-cloud-arrow-down"></i>
+      GENERAL PROGRAMME SCHEDULE
+    </a>
 
-        <a
-          href="#"
-          download
-          class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
-        >
-          <i class="fa-solid fa-download"></i>
-          PARALLEL SESSION 1 &amp; 2 SCHEDULE
-        </a>
+    <a
+      href="#"
+      download
+      class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
+    >
+      <i class="fa-solid fa-cloud-arrow-down"></i>
+      PARALLEL SESSION 1 &amp; 2 SCHEDULE
+    </a>
 
-        <a
-          href="#"
-          download
-          class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
-        >
-          <i class="fa-solid fa-download"></i>
-          PARALLEL SESSION 3 SCHEDULE
-        </a>
+    <a
+      href="#"
+      download
+      class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
+    >
+      <i class="fa-solid fa-cloud-arrow-down"></i>
+      PARALLEL SESSION 3 SCHEDULE
+    </a>
 
-        <a
-          href="#"
-          download
-          class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
-        >
-          <i class="fa-solid fa-download"></i>
-          E-PROCEEDING
-        </a>
-      </div>
-    </section>
+    <a
+      href="#"
+      download
+      class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
+    >
+      <i class="fa-solid fa-cloud-arrow-down"></i>
+      E-PROCEEDING
+    </a>
+  </div>
+</section>
+
+
 
  <!-- Introduction + Important Dates side by side -->
     <section class="introduction py-9 px-4">
@@ -81,33 +83,40 @@
           </p>
         </div>
 <!-- Important Dates (1/3 width) -->
-<div class="bg-orange-500 text-white rounded-lg shadow-lg p-4">
-  <h3 class="text-lg font-bold mb-3">IMPORTANT DATES</h3>
-  <table class="w-full text-xs">
-    <tbody>
-      <tr>
-        <td class="font-semibold pr-3 whitespace-nowrap py-1">Extended abstract deadline:</td>
-        <td class="text-right py-1">3 January 2022 → <strong>9 January 2022</strong></td>
-      </tr>
-      <tr>
-        <td class="font-semibold pr-3 whitespace-nowrap py-1">Notification of Acceptance:</td>
-        <td class="text-right py-1">17 January 2022</td>
-      </tr>
-      <tr>
-        <td class="font-semibold pr-3 whitespace-nowrap py-1">Camera ready:</td>
-        <td class="text-right py-1">4 February 2022</td>
-      </tr>
-      <tr>
-        <td class="font-semibold pr-3 whitespace-nowrap py-1">Registration &amp; payment deadline:</td>
-        <td class="text-right py-1">21 February 2022</td>
-      </tr>
-      <tr>
-        <td class="font-semibold pr-3 whitespace-nowrap py-1">Seminar presentation (ONLINE):</td>
-        <td class="text-right py-1">2 &amp; 3 March 2022</td>
-      </tr>
-    </tbody>
-  </table>
+<div
+  class="bg-gradient-to-b from-purple-700 to-purple-400 text-white rounded shadow-md"
+>
+  <h2 class="text-lg font-bold px-4 py-3 border-b border-white/30">
+    IMPORTANT DATES
+  </h2>
+  <div class="divide-y divide-white/30 text-sm">
+    <div class="px-4 py-3">
+      <p class="font-semibold">EXTENDED ABSTRACT DEADLINE:</p>
+      <p>
+        3 JANUARY 2022 → 
+        <span class="font-bold">9 JANUARY 2022</span>
+        <span class="text-red-300 font-bold ml-1">NEW</span>
+      </p>
+    </div>
+    <div class="px-4 py-3">
+      <p class="font-semibold">NOTIFICATION OF ACCEPTANCE:</p>
+      <p>17 JANUARY 2022</p>
+    </div>
+    <div class="px-4 py-3">
+      <p class="font-semibold">CAMERA READY:</p>
+      <p>4 FEBRUARY 2022</p>
+    </div>
+    <div class="px-4 py-3">
+      <p class="font-semibold">REGISTRATION &amp; PAYMENT DEADLINE:</p>
+      <p>21 FEBRUARY 2022</p>
+    </div>
+    <div class="px-4 py-3">
+      <p class="font-semibold">SEMINAR PRESENTATION (ONLINE):</p>
+      <p>2 &amp; 3 MARCH 2022</p>
+    </div>
+  </div>
 </div>
+
 
 
 

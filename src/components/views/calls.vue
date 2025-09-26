@@ -6,7 +6,7 @@
         src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/bg/sub-event-bg.jpg"
         class="w-full h-full object-cover"
       />
-      <div class="absolute inset-0 bg-orange-500 opacity-60"></div>
+      <div class="absolute inset-0 bg-purple-400/50 opacity-60"></div>
       <div class="bg-black w-full py-2 text-white flex items-center justify-center absolute bottom-0">
         Home &gt; Calls
       </div>
@@ -115,57 +115,81 @@
 
         <!-- Right Column: Sidebar -->
         <div class="flex flex-col gap-6">
-          <!-- Important Dates Table -->
-          <div class="bg-orange-500 text-white rounded-lg shadow-lg p-3">
-            <h3 class="text-base font-bold mb-2">IMPORTANT DATES</h3>
-            <table class="w-full text-[11px]">
-              <tbody>
-                <tr>
-                  <td class="font-semibold pr-2 py-1 align-top">Extended abstract<br>deadline:</td>
-                  <td class="text-right py-1">3 Jan 2022 → <strong>9 Jan 2022</strong></td>
-                </tr>
-                <tr>
-                  <td class="font-semibold pr-2 py-1 align-top">Notification of<br>Acceptance:</td>
-                  <td class="text-right py-1">17 Jan 2022</td>
-                </tr>
-                <tr>
-                  <td class="font-semibold pr-2 py-1 align-top">Camera ready:</td>
-                  <td class="text-right py-1">4 Feb 2022</td>
-                </tr>
-                <tr>
-                  <td class="font-semibold pr-2 py-1 align-top">Registration &<br>payment deadline:</td>
-                  <td class="text-right py-1">21 Feb 2022</td>
-                </tr>
-                <tr>
-                  <td class="font-semibold pr-2 py-1 align-top">Seminar presentation<br>(ONLINE):</td>
-                  <td class="text-right py-1">2 & 3 Mar 2022</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
+         <!-- Important Dates Table -->
+<div class="bg-gradient-to-b from-purple-700 to-purple-400 text-white rounded shadow-md">
+
+  <!-- Title -->
+  <h3 class="text-base font-bold px-4 py-3 border-b border-white/30">
+    IMPORTANT DATES
+  </h3>
+
+  <!-- Table -->
+  <table class="w-full text-[11px] divide-y divide-white/30">
+    <tbody>
+      <tr>
+        <td class="font-semibold pr-2 py-2 align-top px-4">Extended abstract<br>deadline:</td>
+        <td class="text-right py-2 px-4">
+          3 Jan 2022 → <strong>9 Jan 2022</strong>
+          <span class="text-red-300 font-bold ml-1">NEW</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="font-semibold pr-2 py-2 align-top px-4">Notification of<br>Acceptance:</td>
+        <td class="text-right py-2 px-4">17 Jan 2022</td>
+      </tr>
+      <tr>
+        <td class="font-semibold pr-2 py-2 align-top px-4">Camera ready:</td>
+        <td class="text-right py-2 px-4">4 Feb 2022</td>
+      </tr>
+      <tr>
+        <td class="font-semibold pr-2 py-2 align-top px-4">Registration &<br>payment deadline:</td>
+        <td class="text-right py-2 px-4">21 Feb 2022</td>
+      </tr>
+      <tr>
+        <td class="font-semibold pr-2 py-2 align-top px-4">Seminar presentation<br>(ONLINE):</td>
+        <td class="text-right py-2 px-4">2 & 3 Mar 2022</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
           <!-- Fee Table -->
-          <div class="bg-orange-500 text-white rounded-lg shadow-lg p-3">
-            <h3 class="text-base font-bold mb-2">FEE</h3>
-            <table class="w-full text-[11px]">
-              <tbody>
-                <tr>
-                  <td class="font-semibold pr-2 py-1">Presenter or Participant who are PECAMP Members:</td>
-                  <td class="text-right py-1">RM100 / USD25</td>
-                </tr>
-                <tr>
-                  <td class="font-semibold pr-2 py-1">Presenter or Participant:</td>
-                  <td class="text-right py-1">RM125 / USD30</td>
-                </tr>
-                <tr>
-                  <td class="font-semibold pr-2 py-1" colspan="2">
-                    Let's become a PECAMP member: 
-                    <a href="http://pecamp.org/main/membership.php" class="underline hover:text-gray-200" target="_blank">http://pecamp.org/main/membership.php</a>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
+       <!-- Fee Table -->
+<div class="bg-gradient-to-b from-purple-700 to-purple-400 text-white rounded shadow-md">
+
+  <!-- Title -->
+  <h3 class="text-base font-bold px-4 py-3 border-b border-white/30">
+    FEE
+  </h3>
+
+  <!-- Table -->
+  <table class="w-full text-[11px] divide-y divide-white/30">
+    <tbody>
+      <tr>
+        <td class="font-semibold pr-2 py-2 px-4">Presenter or Participant who are PECAMP Members:</td>
+        <td class="text-right py-2 px-4">RM100 / USD25</td>
+      </tr>
+      <tr>
+        <td class="font-semibold pr-2 py-2 px-4">Presenter or Participant:</td>
+        <td class="text-right py-2 px-4">RM125 / USD30</td>
+      </tr>
+      <tr>
+        <td colspan="2" class="py-2 px-4 text-sm">
+          Let’s become a PECAMP member: 
+          <a 
+            href="http://pecamp.org/main/membership.php" 
+            class="underline font-semibold hover:text-gray-200" 
+            target="_blank"
+          >
+            http://pecamp.org/main/membership.php
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
         </div>
       </div>

@@ -6,7 +6,7 @@
         src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/bg/sub-event-bg.jpg"
         class="w-full h-full object-cover"
       />
-      <div class="absolute inset-0 bg-orange-500 opacity-60"></div>
+      <div class="absolute inset-0 bg-purple-400/50 opacity-60"></div>
       <div
         class="bg-black w-full py-2 text-white flex items-center justify-center absolute bottom-0"
       >
@@ -77,9 +77,10 @@
 
         <!-- Right Column: Important Dates -->
         <div>
-          <div
-            class="bg-gradient-to-b from-orange-600 to-orange-400 text-white rounded shadow-md"
-          >
+<div
+  class="bg-gradient-to-b from-purple-700 to-purple-400 text-white rounded shadow-md"
+>
+
             <h2 class="text-lg font-bold px-4 py-3 border-b border-white/30">
               IMPORTANT DATES
             </h2>
