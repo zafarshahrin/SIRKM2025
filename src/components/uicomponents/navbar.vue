@@ -8,8 +8,10 @@
           style="clip-path: polygon(0% 0%, 100% 0%, 96% 100%, 4% 100%)"
         >
           <div class="pr-4 pl-2 text-sm">SIRKM'25</div>
-          <div class="bg-purple-600 transform skew-x-20 px-2">
-            <div class="-skew-x-20 text-white text-xs px-2 h-8 flex items-center">
+          <div class="bg-[#4B0082] transform skew-x-20 px-2">
+            <div
+              class="-skew-x-20 text-white text-xs px-2 h-8 flex items-center"
+            >
               SEMINAR ON INFORMATION RETRIEVAL AND KNOWLEDGE MANAGEMENT 2025
             </div>
           </div>
@@ -22,92 +24,76 @@
         <!-- Logo -->
         <div class="logo shrink-0">
           <router-link to="/">
-            <img
-              src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/logo-sirkmbaru.png"
-              alt="SIRKM Logo"
-            />
+            <img :src="logo" alt="SIRKM Logo" class="h-12 object-contain" />
           </router-link>
         </div>
 
-<!-- Navigation -->
-<nav class="text-black text-[12px]">
-  <ul class="flex gap-6">
-    <li>
-      <router-link
-        to="/"
-        class="inline-block px-2 py-1 hover:text-red-800 border-b-2 border-transparent"
-        exact-active-class="font-bold text-black border-b-2 border-black"
-      >HOME</router-link>
-    </li>
-    <li>
-      <router-link
-        to="/calls"
-        class="inline-block px-2 py-1 hover:text-red-800 border-b-2 border-transparent"
-        active-class="font-bold text-black border-b-2 border-black"
-      >CALLS</router-link>
-    </li>
-    <li>
-      <router-link
-        to="/invited-speaker"
-        class="inline-block px-2 py-1 hover:text-red-800 border-b-2 border-transparent"
-        active-class="font-bold text-black border-b-2 border-black"
-      >INVITED SPEAKER</router-link>
-    </li>
-    <li>
-      <router-link
-        to="/abstract-submission"
-        class="inline-block px-2 py-1 hover:text-red-800 border-b-2 border-transparent"
-        active-class="font-bold text-black border-b-2 border-black"
-      >ABSTRACT SUBMISSION</router-link>
-    </li>
-    <li>
-      <router-link
-        to="/programme"
-        class="inline-block px-2 py-1 hover:text-red-800 border-b-2 border-transparent"
-        active-class="font-bold text-black border-b-2 border-black"
-      >PROGRAMME</router-link>
-    </li>
-    <li>
-      <router-link
-        to="/registration"
-        class="inline-block px-2 py-1 hover:text-red-800 border-b-2 border-transparent"
-        active-class="font-bold text-black border-b-2 border-black"
-      >REGISTRATION</router-link>
-    </li>
-    <li>
-      <router-link
-        to="/committee"
-        class="inline-block px-2 py-1 hover:text-red-800 border-b-2 border-transparent"
-        active-class="font-bold text-black border-b-2 border-black"
-      >COMMITTEE</router-link>
-    </li>
-    <li>
-      <router-link
-        to="/media"
-        class="inline-block px-2 py-1 hover:text-red-800 border-b-2 border-transparent"
-        active-class="font-bold text-black border-b-2 border-black"
-      >MEDIA</router-link>
-    </li>
-  </ul>
-</nav>
-
-
-
-
-
-
+        <!-- Navigation -->
+        <div class="text-black text-[12px]">
+          <ul class="flex gap-6">
+            <li
+              v-for="item in navItems"
+              :key="item.path"
+              @click="goTo(item.path)"
+              class="inline-block px-2 py-1 cursor-pointer hover:text-red-800 border-b-2 border-transparent"
+              :class="{
+                'text-indigo-500 !font-bold border-b-2 border-indigo-500':
+                  isActive(item).value,
+              }"
+            >
+              {{ item.name }}
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   </header>
 </template>
 
 <script setup>
-// No script needed, Vue Router handles navigation
+import { computed } from "vue";
+import { useRoute, useRouter } from "vue-router";
+import logo from "@/assets/logo3.png"; // ✅ import local image
+
+const route = useRoute();
+const router = useRouter();
+
+// Define nav items with routeName to match route.name
+const navItems = [
+  { name: "HOME", path: "/", routeName: "home" },
+  { name: "CALLS", path: "/calls", routeName: "calls" },
+  {
+    name: "INVITED SPEAKER",
+    path: "/invited-speaker",
+    routeName: "invited-speaker",
+  },
+  {
+    name: "ABSTRACT SUBMISSION",
+    path: "/abstract-submission",
+    routeName: "abstract-submission",
+  },
+  { name: "PROGRAMME", path: "/programme", routeName: "programme" },
+  { name: "REGISTRATION", path: "/registration", routeName: "registration" },
+  { name: "COMMITTEE", path: "/committee", routeName: "committee" },
+  { name: "MEDIA", path: "/media", routeName: "media" },
+];
+
+// Navigate manually
+const goTo = (path) => {
+  router.push(path);
+};
+
+// Check active state
+const isActive = (item) =>
+  computed(() => {
+    const routeName = route.name?.toUpperCase().replace(/-/g, "");
+    const itemName = item.routeName.trim().toUpperCase().replace(/-/g, "");
+    return routeName === itemName;
+  });
 </script>
 
 <style scoped>
-/* Optional: Add small shadow below navbar */
 header {
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 </style>

@@ -119,52 +119,47 @@
 <div class="bg-gradient-to-b from-purple-700 to-purple-400 text-white rounded shadow-md">
 
   <!-- Title -->
-  <h3 class="text-base font-bold px-4 py-3 border-b border-white/30">
+  <h2 class="text-lg font-bold px-4 py-3 border-b border-white/30">
     IMPORTANT DATES
-  </h3>
+  </h2>
 
-  <!-- Table -->
-  <table class="w-full text-[11px] divide-y divide-white/30">
-    <tbody>
-      <tr>
-        <td class="font-semibold pr-2 py-2 align-top px-4">Extended abstract<br>deadline:</td>
-        <td class="text-right py-2 px-4">
-          3 Jan 2022 → <strong>9 Jan 2022</strong>
-          <span class="text-red-300 font-bold ml-1">NEW</span>
-        </td>
-      </tr>
-      <tr>
-        <td class="font-semibold pr-2 py-2 align-top px-4">Notification of<br>Acceptance:</td>
-        <td class="text-right py-2 px-4">17 Jan 2022</td>
-      </tr>
-      <tr>
-        <td class="font-semibold pr-2 py-2 align-top px-4">Camera ready:</td>
-        <td class="text-right py-2 px-4">4 Feb 2022</td>
-      </tr>
-      <tr>
-        <td class="font-semibold pr-2 py-2 align-top px-4">Registration &<br>payment deadline:</td>
-        <td class="text-right py-2 px-4">21 Feb 2022</td>
-      </tr>
-      <tr>
-        <td class="font-semibold pr-2 py-2 align-top px-4">Seminar presentation<br>(ONLINE):</td>
-        <td class="text-right py-2 px-4">2 & 3 Mar 2022</td>
-      </tr>
-    </tbody>
-  </table>
+
+<div class="bg-[#4B0082] divide-y divide-white/30 text-sm">
+  <div class="px-4 py-3">
+      <p class="font-semibold">EXTENDED ABSTRACT DEADLINE:</p>
+      <p>
+        3 NOVEMBER 2025
+      </p>
+    </div>
+    <div class="px-4 py-3">
+      <p class="font-semibold">NOTIFICATION OF ACCEPTANCE:</p>
+      <p>10 NOVEMBER 2025</p>
+    </div>
+    <div class="px-4 py-3">
+      <p class="font-semibold">CAMERA READY SUBMISSION, (12 Pages) :</p>
+      <p>24 NOVEMBER 2025</p>
+    </div>
+    <div class="px-4 py-3">
+      <p class="font-semibold">REGISTRATION &amp; PAYMENT DEADLINE:</p>
+      <p>TBA</p>
+    </div>
+    <div class="px-4 py-3">
+      <p class="font-semibold">SEMINAR PRESENTATION (ONLINE):</p>
+      <p>25 NOVEMBER 2025</p>
+    </div>
+ </div> 
+
 </div>
-
 
           <!-- Fee Table -->
        <!-- Fee Table -->
 <div class="bg-gradient-to-b from-purple-700 to-purple-400 text-white rounded shadow-md">
 
   <!-- Title -->
-  <h3 class="text-base font-bold px-4 py-3 border-b border-white/30">
-    FEE
-  </h3>
+<h2 class="text-lg font-bold px-4 py-3 border-b border-white/30">FEE </h2>
 
   <!-- Table -->
-  <table class="w-full text-[11px] divide-y divide-white/30">
+  <table class="w-full text-[11px] bg-[#4B0082] divide-y divide-white/30">
     <tbody>
       <tr>
         <td class="font-semibold pr-2 py-2 px-4">Presenter or Participant who are PECAMP Members:</td>
@@ -179,7 +174,7 @@
           Let’s become a PECAMP member: 
           <a 
             href="http://pecamp.org/main/membership.php" 
-            class="underline font-semibold hover:text-gray-200" 
+            class="underline font-semibold text-yellow-400 hover:text-yellow-300" 
             target="_blank"
           >
             http://pecamp.org/main/membership.php

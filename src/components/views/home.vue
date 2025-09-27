@@ -1,10 +1,20 @@
 <template>
   <div class="home-content w-full pb-[120px]">
     <!-- Hero Section -->
-    <section
-      :style="{ backgroundImage: `url(${heroImg})` }"
-      class="relative h-[500px] bg-cover bg-center flex items-center justify-center"
-    >
+<section
+  :style="{ backgroundImage: `url(${heroImg})` }"
+  class="relative h-[500px] bg-cover bg-center flex items-center justify-center"
+>
+
+
+
+
+
+
+
+
+
+
       <!-- Overlay -->
       <div class="absolute inset-0 bg-white/5"></div>
 
@@ -62,25 +72,22 @@
       <div class="max-w-6xl mx-auto grid md:grid-cols-3 gap-8">
         <!-- Introduction (2/3 width) -->
         <div class="md:col-span-2">
-          <h2 class="text-2xl font-bold text-[#1d3557] mb-4">INTRODUCTION</h2>
+         <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">INTRODUCTION</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+
+          <!-- Two-line gap -->
+<div class="h-8"></div>
+
           <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-            The Seminar on Information Retrieval and Knowledge Management 2022
-            (SIRKM'22) welcome all researchers to share their ongoing research and
-            provide an opportunity to share their work. SIRKM'22 aims to encourage
-            knowledge sharing by providing a platform for interactive discussions
-            with experts in information retrieval, knowledge management, and its
-            related fields. It also hopes to encourage community-building by
-            connecting early and advanced researchers. SIRKM'22 is jointly
-            organised by the Universiti Kebangsaan Malaysia (UKM) and the Society
-            of Information Retrieval and Knowledge Management, Malaysia (PECAMP).
+The Seminar on Information Retrieval and Knowledge Management 2025 (SIRKM'25) welcome all researchers to share their ongoing research and provide an opportunity to share their work. SIRKM'25 aims to encourage knowledge sharing by providing a platform for interactive discussions with experts in information retrieval, knowledge management, and its related fields. It also hopes to encourage community-building by connecting early and advanced researchers. SIRKM'25 is jointly organised by the Universiti Teknologi MARA (UiTM) and the Society of Information Retrieval and Knowledge Management, Malaysia (PECAMP).
+area of interest: SIRKM’25 invite both local and international researchers to submit extended abstracts of current research being undertaken on the following topics (but not limited to):
+<p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">1. Information Retrieval [IR]: Information Seeking and Behaviour, Search interfaces, Search Engine, Semantic Technology, IR Applications.</p>
+<p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">2. Knowledge Management [KM]: Ontology, Decision Support System, Business Intelligence, Knowledge Innovation, Knowledge Sharing.</p>
+<p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">3. Artificial Intelligence [AI] & Data Science [DS]: Machine Learning, Big Data, Data Analytics and its Application, Sentiment Analysis, Natural Language Processing.</p>
+<p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">4. Information Visualisation [IV]: Virtual and Augmented Reality Technology, Multimedia Analytics, Human-Computer Interaction, Game Design, Computer Vision.</p>
+<p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">5. Others: Cyber Security, Emerging ICT Application, Mobile Technology Applications, Internet of Things, Industrial Computing.</p>
           </p>
-          <p class="text-sm text-gray-700 leading-relaxed text-justify">
-            SIRKM was founded in 2017, is a PECAMP key event for the discussion of
-            research on information retrieval and knowledge management. Our past
-            SIRKM were SIRKM'20-Online (University of Malaya), SIRKM'18
-            (International Islamic University Malaysia), and SIRKM'17 (Universiti
-            Putra Malaysia).
-          </p>
+
         </div>
 <!-- Important Dates (1/3 width) -->
 <div
@@ -89,42 +96,31 @@
   <h2 class="text-lg font-bold px-4 py-3 border-b border-white/30">
     IMPORTANT DATES
   </h2>
-  <div class="divide-y divide-white/30 text-sm">
-    <div class="px-4 py-3">
-      <p class="font-semibold">EXTENDED ABSTRACT DEADLINE:</p>
-      <p>
-        3 JANUARY 2022 → 
-        <span class="font-bold">9 JANUARY 2022</span>
-        <span class="text-red-300 font-bold ml-1">NEW</span>
-      </p>
-    </div>
-    <div class="px-4 py-3">
-      <p class="font-semibold">NOTIFICATION OF ACCEPTANCE:</p>
-      <p>17 JANUARY 2022</p>
-    </div>
-    <div class="px-4 py-3">
-      <p class="font-semibold">CAMERA READY:</p>
-      <p>4 FEBRUARY 2022</p>
-    </div>
-    <div class="px-4 py-3">
-      <p class="font-semibold">REGISTRATION &amp; PAYMENT DEADLINE:</p>
-      <p>21 FEBRUARY 2022</p>
-    </div>
-    <div class="px-4 py-3">
-      <p class="font-semibold">SEMINAR PRESENTATION (ONLINE):</p>
-      <p>2 &amp; 3 MARCH 2022</p>
-    </div>
+<div class="bg-[#4B0082] divide-y divide-white/30 text-sm">
+  <div class="px-4 py-3 last:border-none">
+    <p class="font-semibold">EXTENDED ABSTRACT DEADLINE:</p>
+    <p>3 NOVEMBER 2025</p>
+  </div>
+  <div class="px-4 py-3 last:border-none">
+    <p class="font-semibold">NOTIFICATION OF ACCEPTANCE:</p>
+    <p>10 NOVEMBER 2025</p>
+  </div>
+  <div class="px-4 py-3 last:border-none">
+    <p class="font-semibold">CAMERA READY SUBMISSION (12 Pages):</p>
+    <p>24 NOVEMBER 2025</p>
+  </div>
+  <div class="px-4 py-3 last:border-none">
+    <p class="font-semibold">REGISTRATION &amp; PAYMENT DEADLINE:</p>
+    <p>TBA</p>
+  </div>
+  <div class="px-4 py-3 last:border-none">
+    <p class="font-semibold">SEMINAR PRESENTATION (ONLINE):</p>
+    <p>25 NOVEMBER 2025</p>
   </div>
 </div>
 
 
-
-
-
-
-
-
-
+</div>
 
       </div>
     </section>
@@ -132,73 +128,27 @@
     <!-- Topic of Interest -->
     <section class="topics py-9 px-4 bg-gray-50">
       <div class="max-w-4xl mx-auto">
-        <h2 class="text-2xl font-bold text-[#1d3557] mb-6">TOPIC OF INTEREST</h2>
-        <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-          SIRKM’22 invite both local and international researchers to submit
-          extended abstracts of current research being undertaken on the
-          following topics (but not limited to):
-        </p>
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">TOPIC OF INTEREST</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
 
-        <ul class="list-disc pl-6 text-gray-700 space-y-3 mb-6 text-sm">
-          <li>
-            <strong>Information Retrieval [IR]:</strong> Information Seeking and
-            Behaviour, Search interfaces, Search Engine, Semantic Technology, IR
-            Applications.
-          </li>
-          <li>
-            <strong>Knowledge Management [KM]:</strong> Ontology, Decision
-            Support System, Business Intelligence, Knowledge Innovation,
-            Knowledge Sharing.
-          </li>
-          <li>
-            <strong>Data Science [DS]:</strong> Machine Learning, Big Data, Data
-            Analytics and its Application, Sentiment Analysis, Natural Language
-            Processing.
-          </li>
-          <li>
-            <strong>Information Visualisation [IV]:</strong> Virtual and
-            Augmented Reality Technology, Multimedia Analytics, Human-Computer
-            Interaction, Game Design, Computer Vision.
-          </li>
-          <li>
-            <strong>Others:</strong> Cyber Security, Emerging ICT Application,
-            Mobile Technology Applications, Internet of Things, Industrial
-            Computing.
-          </li>
-        </ul>
+          <!-- Two-line gap -->
+<div class="h-8"></div>
 
         <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-          Presenters have the following opportunities for full paper
-          publications:
+          SIRKM’25 invite both local and international researchers to submit extended abstracts of current research being undertaken on the following topics (but not limited to):</p>
+<p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">1. Information Retrieval [IR]: Information Seeking and Behaviour, Search interfaces, Search Engine, Semantic Technology, IR Applications.</p>
+<p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">2. Knowledge Management [KM]: Ontology, Decision Support System, Business Intelligence, Knowledge Innovation, Knowledge Sharing.</p>
+<p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">3. Artificial Intelligence [AI] & Data Science [DS]: Machine Learning, Big Data, Data Analytics and its Application, Sentiment Analysis, Natural Language Processing.</p>
+<p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">4. Information Visualisation [IV]: Virtual and Augmented Reality Technology, Multimedia Analytics, Human-Computer Interaction, Game Design, Computer Vision.</p>
+<p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">5. Others: Cyber Security, Emerging ICT Application, Mobile Technology Applications, Internet of Things, Industrial Computing.
         </p>
 
-        <ul class="list-disc pl-6 text-gray-700 space-y-2 text-sm">
-          <li>
-            <strong>2023 Sixth International Conference on Information Retrieval
-            and Knowledge Management (CAMP):</strong> Our previous CAMP is
-            CAMP'21 (Online), CAMP’18, CAMP’16, CAMP’12, and CAMP’10.
-          </li>
-          <li>
-            <strong>Journal of Information Retrieval and Knowledge Management
-            (JIRKM)</strong>
-          </li>
-          <li>
-            <strong>Asia-Pacific Journal of Information Technology and Multimedia
-            (APJITM)</strong>
-          </li>
-        </ul>
 
-        <p class="text-sm text-gray-700 leading-relaxed mt-4 text-justify">
-          Authors of all accepted extended abstracts are invited to submit the
-          full version of the papers for publication consideration in the
-          Journal of Information Retrieval and Knowledge Management (JIRKM)
-          Vol. 5.
-        </p>
       </div>
     </section>
   </div>
 </template>
 
 <script setup>
-import heroImg from '@/assets/homepageslider.png'
+import heroImg from '@/assets/newposter4.png'
 </script>

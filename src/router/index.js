@@ -1,14 +1,14 @@
 import { createRouter, createWebHistory } from "vue-router";
 
 import Layout from "../components/layout.vue";
-import Home from "../components/views/Home.vue";
-import Calls from "../components/views/Calls.vue";
-import InvitedSpeaker from "../components/views/InvitedSpeaker.vue";
-import AbstractSubmission from "../components/views/AbstractSubmission.vue";
-import Programme from "../components/views/Programme.vue";
-import Registration from "../components/views/Registration.vue";
-import Committee from "../components/views/Committee.vue";
-import Media from "../components/views/Media.vue";
+import Home from "../components/views/home.vue";
+import Calls from "../components/views/calls.vue";
+import InvitedSpeaker from "../components/views/invitedspeaker.vue";
+import AbstractSubmission from "../components/views/abstractsubmission.vue";
+import Programme from "../components/views/programme.vue";
+import Registration from "../components/views/registration.vue";
+import Committee from "../components/views/committee.vue";
+import Media from "../components/views/media.vue";
 
 const routes = [
   {

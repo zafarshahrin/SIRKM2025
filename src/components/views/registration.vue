@@ -52,6 +52,9 @@
             </tbody>
           </table>
 
+<!-- Two-line gap -->
+<div class="h-8"></div>
+
           <!-- PECAMP Flyer -->
           <h2 class="text-2xl font-bold mt-10 mb-4">PECAMP FLYERS</h2>
           <div class="flex items-start gap-6">
@@ -73,13 +76,14 @@
             Telegraphic Transfer to the following account:
           </p>
           <div class="bg-gray-50 p-4 rounded-lg text-sm mb-200 border border-gray-100">
-            <p><strong>Bank:</strong> CIMB Bank</p>
-            <p><strong>Account Name:</strong> Persatuan Pengurusan Maklumat Malaysia</p>
-            <p><strong>Account Number:</strong> 8602645308</p>
-            <p><strong>Swift Code:</strong> CIBBMYKL</p>
-            <p><strong>Branch:</strong> CIMB Bank Berhad, UKM Bangi, Selangor</p>
+            <p><strong>Bank:</strong> CIMB Islamic Bank Bhd</p>
+            <p><strong>Account Name:</strong> Persatuan Capaian Maklumat dan Pengurusan Pengetahuan Malaysia (PECAMP)</p>
+            <p><strong>Account Number:</strong> 8600451169</p>
+            <p><strong>Swift Code:</strong> CTBBMYKL</p>
+            <p><strong>Branch:</strong> CIMB Islamic Bank Berhad, Cawangan UNIKEB , UKM Bangi ,43600 Selangor, Malaysia</p>
           </div>
-
+<!-- Two-line gap -->
+<div class="h-8"></div>
           <!-- Important Notes -->
           <h2 class="text-2xl font-bold mb-200">IMPORTANT NOTES</h2>
           <ul class="list-disc pl-6 text-sm mb-8 space-y-2 text-gray-700">
@@ -87,17 +91,22 @@
             <li>Proof of payment must be uploaded during registration.</li>
             <li>Conference fees are non-refundable but transferable.</li>
           </ul>
-
+<!-- Two-line gap -->
+<div class="h-8"></div>
           <!-- Registration Form -->
           <h2 class="text-2xl font-bold mb-4">REGISTRATION FORM</h2>
+          <!-- Two-line gap -->
+<div class="h-4"></div>
           <a
             href="#"
             target="_blank"
             class="inline-block bg-orange-600 text-white px-6 py-3 rounded-lg shadow-md hover:bg-orange-700 text-sm font-semibold"
           >
             CLICK HERE TO REGISTER
+            
           </a>
-        </div>
+           </div>
+
       </div>
     </section>
   </div>

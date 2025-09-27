@@ -81,31 +81,35 @@
   class="bg-gradient-to-b from-purple-700 to-purple-400 text-white rounded shadow-md"
 >
 
-            <h2 class="text-lg font-bold px-4 py-3 border-b border-white/30">
-              IMPORTANT DATES
-            </h2>
-            <div class="divide-y divide-white/30 text-sm">
-              <div class="px-4 py-3">
-                <p class="font-semibold">EXTENDED ABSTRACT DEADLINE:</p>
-                <p>9 JANUARY 2022 <span class="text-red-300 font-bold">NEW</span></p>
-              </div>
-              <div class="px-4 py-3">
-                <p class="font-semibold">NOTIFICATION OF ACCEPTANCE:</p>
-                <p>17 JANUARY 2022</p>
-              </div>
-              <div class="px-4 py-3">
-                <p class="font-semibold">CAMERA READY:</p>
-                <p>4 FEBRUARY 2022</p>
-              </div>
-              <div class="px-4 py-3">
-                <p class="font-semibold">REGISTRATION & PAYMENT DEADLINE:</p>
-                <p>21 FEBRUARY 2022</p>
-              </div>
-              <div class="px-4 py-3">
-                <p class="font-semibold">SEMINAR PRESENTATION:</p>
-                <p>2 & 3 MARCH 2022</p>
-              </div>
-            </div>
+  <h2 class="text-lg font-bold px-4 py-3 border-b border-white/30">
+    IMPORTANT DATES
+  </h2>
+
+
+<div class="bg-[#4B0082] divide-y divide-white/30 text-sm">
+  <div class="px-4 py-3">
+      <p class="font-semibold">EXTENDED ABSTRACT DEADLINE:</p>
+      <p>
+        3 NOVEMBER 2025
+      </p>
+    </div>
+    <div class="px-4 py-3">
+      <p class="font-semibold">NOTIFICATION OF ACCEPTANCE:</p>
+      <p>10 NOVEMBER 2025</p>
+    </div>
+    <div class="px-4 py-3">
+      <p class="font-semibold">CAMERA READY SUBMISSION, (12 Pages) :</p>
+      <p>24 NOVEMBER 2025</p>
+    </div>
+    <div class="px-4 py-3">
+      <p class="font-semibold">REGISTRATION &amp; PAYMENT DEADLINE:</p>
+      <p>TBA</p>
+    </div>
+    <div class="px-4 py-3">
+      <p class="font-semibold">SEMINAR PRESENTATION (ONLINE):</p>
+      <p>25 NOVEMBER 2025</p>
+    </div>
+ </div> 
           </div>
         </div>
       </div>
