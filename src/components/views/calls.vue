@@ -19,8 +19,13 @@
         <div class="md:col-span-2 flex flex-col">
 
           <!-- Call for Abstract -->
-          <div class="mt-8">
-            <h2 class="text-2xl font-bold text-[#1d3557] mb-4">CALL FOR ABSTRACT</h2>
+          
+                  <div class="max-w-4xl mx-auto">
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">CALL FOR ABSTRACT</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+
+          <!-- Two-line gap -->
+<div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
               The Seminar on Information Retrieval and Knowledge Management 2022
               (SIRKM'22) welcomes all researchers to share their ongoing research
@@ -51,8 +56,12 @@
 <div class="h-8"></div>
 
           <!-- AWIST Doctoral Consortium -->
-          <div class="mt-10">
-            <h2 class="text-2xl font-bold text-[#1d3557] mb-4">*AWIST DOCTORAL CONSORTIUM</h2>
+      <div class="max-w-4xl mx-auto">
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">*AWIST DOCTORAL CONSORTIUM</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+
+          <!-- Two-line gap -->
+<div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
               SIRKM'22 also offered AWIST Doctoral Consortium (Session 3) as an opportunity for PhD students to present, explore and develop their research interests. We invite students who would appreciate feedback on their dissertation research and want to increase its visibility to apply for this unique opportunity to share and discuss their work with a panel of distinguished researchers in the field. Ideal candidates will be mid-way through their program, meaning they have a clear topic and research approach, with some concrete progress but also sufficient time remaining in their program to consider integrating suggestions and new ideas.
             </p>
@@ -66,8 +75,12 @@
 <div class="h-8"></div>
 
           <!-- Publication -->
-          <div class="mt-10">
-            <h2 class="text-2xl font-bold text-[#1d3557] mb-4">PUBLICATION</h2>
+      <div class="max-w-4xl mx-auto">
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">PUBLICATION</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+
+          <!-- Two-line gap -->
+<div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
               Accepted and presented papers will be published as e-proceedings with eISBN.
             </p>
@@ -77,8 +90,12 @@
 <div class="h-8"></div>
 
           <!-- Best Paper Award -->
-          <div class="mt-10">
-            <h2 class="text-2xl font-bold text-[#1d3557] mb-4">BEST PAPER AWARD</h2>
+      <div class="max-w-4xl mx-auto">
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">BEST PAPER AWARD</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+
+          <!-- Two-line gap -->
+<div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
               SIRKM'22 will have the Best Paper Award for each track, which will be announced and bestowed at the seminar closing session.
             </p>
@@ -88,8 +105,12 @@
 <div class="h-8"></div>
 
           <!-- Invited Speakers -->
-          <div class="mt-10 text-center">
-            <h2 class="text-2xl font-bold text-[#1d3557] mb-6">INVITED SPEAKERS</h2>
+      <div class="max-w-4xl mx-auto">
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">INVITED SPEAKER</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+
+          <!-- Two-line gap -->
+<div class="h-8"></div>
             <div class="flex justify-center gap-8 flex-wrap">
               <div class="text-center w-40">
                 <img src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/mizo.jpg" alt="Riichiro Mizoguchi" class="mx-auto rounded-lg mb-2"/>
