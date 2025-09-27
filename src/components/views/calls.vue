@@ -27,19 +27,19 @@
           <!-- Two-line gap -->
 <div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-              The Seminar on Information Retrieval and Knowledge Management 2022
-              (SIRKM'22) welcomes all researchers to share their ongoing research
-              and provide an opportunity to share their work. SIRKM'22 aims to
+              The Seminar on Information Retrieval and Knowledge Management 2025
+              (SIRKM'25) welcomes all researchers to share their ongoing research
+              and provide an opportunity to share their work. SIRKM'25 aims to
               encourage knowledge sharing by providing a platform for interactive
               discussions with experts in information retrieval, knowledge management,
               and its related fields. It also hopes to encourage community-building
-              by connecting early and advanced researchers. SIRKM'22 is jointly
-              organised by the Universiti Kebangsaan Malaysia (UKM), the Society
+              by connecting early and advanced researchers. SIRKM'25 is jointly
+              organised by the Universiti Teknologi Mara (UITM), the Society
               of Information Retrieval and Knowledge Management, Malaysia (PECAMP)
               and ASEAN Workshop on Information Science and Technology (AWIST).
             </p>
             <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-              SIRKM’22 invites both local and international researchers to submit
+              SIRKM’25 invites both local and international researchers to submit
               extended abstracts of current research being undertaken on the following
               topics (but not limited to):
             </p>
@@ -63,11 +63,11 @@
           <!-- Two-line gap -->
 <div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-              SIRKM'22 also offered AWIST Doctoral Consortium (Session 3) as an opportunity for PhD students to present, explore and develop their research interests. We invite students who would appreciate feedback on their dissertation research and want to increase its visibility to apply for this unique opportunity to share and discuss their work with a panel of distinguished researchers in the field. Ideal candidates will be mid-way through their program, meaning they have a clear topic and research approach, with some concrete progress but also sufficient time remaining in their program to consider integrating suggestions and new ideas.
+              SIRKM'25 also offered AWIST Doctoral Consortium (Session 3) as an opportunity for PhD students to present, explore and develop their research interests. We invite students who would appreciate feedback on their dissertation research and want to increase its visibility to apply for this unique opportunity to share and discuss their work with a panel of distinguished researchers in the field. Ideal candidates will be mid-way through their program, meaning they have a clear topic and research approach, with some concrete progress but also sufficient time remaining in their program to consider integrating suggestions and new ideas.
             </p>
             <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
               <strong>*ASEAN Workshop on Information Science and Technology (AWIST)</strong><br>
-              PhD students from FTSM UKM who presented in AWIST Doctoral Consortium will be exempted from Student Progress Seminar 2022 (applies to all centers-CYBER/CAIT/SOFTAM).
+              PhD students from FTSM UKM who presented in AWIST Doctoral Consortium will be exempted from Student Progress Seminar 2025 (applies to all centers-CYBER/CAIT/SOFTAM).
             </p>
           </div>
 
@@ -97,7 +97,7 @@
           <!-- Two-line gap -->
 <div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-              SIRKM'22 will have the Best Paper Award for each track, which will be announced and bestowed at the seminar closing session.
+              SIRKM'25 will have the Best Paper Award for each track, which will be announced and bestowed at the seminar closing session.
             </p>
           </div>
 

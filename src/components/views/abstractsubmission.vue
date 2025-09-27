@@ -20,10 +20,13 @@
         <!-- Left Content -->
         <div class="md:col-span-2 space-y-10">
           <!-- Abstract Submission -->
-          <div>
-            <h2 class="text-lg font-bold mb-3 text-[#1d3557]">
-              ABSTRACT SUBMISSION
-            </h2>
+          
+      <div class="max-w-4xl mx-auto">
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">ABSTRACT SUBMISSION</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+
+          <!-- Two-line gap -->
+<div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed">
               Extended abstracts should be at most 2-4 pages in length,
               including diagrams, figures, tables, and others. Submissions will
@@ -34,11 +37,16 @@
             </p>
           </div>
 
+          <!-- Two-line gap -->
+<div class="h-8"></div>
+
           <!-- Submission Instructions -->
-          <div>
-            <h2 class="text-lg font-bold mb-3 text-[#1d3557]">
-              SUBMISSION INSTRUCTIONS
-            </h2>
+      <div class="max-w-4xl mx-auto">
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">SUBMISSION INSTRUCTION</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+
+          <!-- Two-line gap -->
+<div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed mb-3">
               1. All extended abstracts should be submitted via
               <a

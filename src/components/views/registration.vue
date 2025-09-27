@@ -20,7 +20,12 @@
         <!-- LEFT COLUMN -->
         <div>
           <!-- Fee Table -->
-          <h2 class="text-2xl font-bold mb-4">FEE</h2>
+     
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">FEE</h2>
+                 
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+<!-- Two-line gap -->
+<div class="h-8"></div>
           <table class="w-full border border-gray-200 text-sm">
             <thead>
               <tr class="bg-gray-50">
@@ -56,7 +61,13 @@
 <div class="h-8"></div>
 
           <!-- PECAMP Flyer -->
-          <h2 class="text-2xl font-bold mt-10 mb-4">PECAMP FLYERS</h2>
+                
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">PECAMP FLYERS</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+
+<!-- Two-line gap -->
+<div class="h-8"></div>
+
           <div class="flex items-start gap-6">
             <img
               src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/PECAMP%20flyers.png"
@@ -68,9 +79,15 @@
         </div>
 
         <!-- RIGHT COLUMN -->
-        <div>
+        
           <!-- Payment Method -->
-          <h2 class="text-2xl font-bold mb-4">PAYMENT METHOD</h2>
+                <div class="max-w-4xl mx-auto">
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">PAYMENT METHOD</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+
+          <!-- Two-line gap -->
+<div class="h-8"></div>
+
           <p class="text-sm leading-relaxed mb-50">
             Payment should be made through Online Transfer / Bank Transfer /
             Telegraphic Transfer to the following account:
@@ -85,7 +102,13 @@
 <!-- Two-line gap -->
 <div class="h-8"></div>
           <!-- Important Notes -->
-          <h2 class="text-2xl font-bold mb-200">IMPORTANT NOTES</h2>
+                          
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">IMPORTANT NOTES</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+
+          <!-- Two-line gap -->
+<div class="h-8"></div>
+
           <ul class="list-disc pl-6 text-sm mb-8 space-y-2 text-gray-700">
             <li>All participants must register online.</li>
             <li>Proof of payment must be uploaded during registration.</li>
@@ -94,18 +117,21 @@
 <!-- Two-line gap -->
 <div class="h-8"></div>
           <!-- Registration Form -->
-          <h2 class="text-2xl font-bold mb-4">REGISTRATION FORM</h2>
+                          
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">REGISTRATION FORM</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+
           <!-- Two-line gap -->
 <div class="h-4"></div>
-          <a
-            href="#"
-            target="_blank"
-            class="inline-block bg-orange-600 text-white px-6 py-3 rounded-lg shadow-md hover:bg-orange-700 text-sm font-semibold"
-          >
-            CLICK HERE TO REGISTER
-            
-          </a>
-           </div>
+<a
+  href="#"
+  target="_blank"
+  class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300"
+>
+  CLICK HERE TO REGISTER
+</a>
+</div>
+
 
       </div>
     </section>
