@@ -1,10 +1,11 @@
 <template>
-  <footer class="bg-black text-white py-8 mt-10 flex justify-center">
-    <div class="w-[70%] mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 gap-4">
-      <div class="flex justify-between items-center">
+  <footer class="bg-black text-white py-8 mt-10">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 space-y-6">
+      <!-- Top section -->
+      <div class="flex flex-col md:flex-row justify-between items-center gap-6">
         <!-- Navigation Links -->
         <div
-          class="flex flex-nowrap justify-center md:justify-start gap-0 text-xs font-bold mb-4 divide-x divide-gray-500"
+          class="flex flex-wrap justify-center md:justify-start gap-x-3 gap-y-2 text-xs font-bold text-center md:text-left"
         >
           <router-link to="/" class="px-1 py-1 hover:text-red-800">Home</router-link>
           <router-link to="/calls" class="px-1 py-1 hover:text-red-800">Calls</router-link>
@@ -19,32 +20,33 @@
         <!-- Logo -->
         <div class="shrink-0">
           <router-link to="/">
-            <img :src="logo" alt="SIRKM Logo" />
+            <img :src="logo" alt="SIRKM Logo" class="h-10 md:h-12 object-contain mx-auto md:mx-0" />
           </router-link>
         </div>
       </div>
 
-      <hr />
+      <hr class="border-gray-600" />
 
       <!-- Address -->
-      <div class="text-sm mb-4 text-center md:text-left">
+      <div class="text-sm text-center md:text-left">
         Faculty of Information Science and Technology, Universiti Kebangsaan
         Malaysia, 43600 Bangi, Selangor, Malaysia.
       </div>
 
       <!-- Contact -->
-      <div class="text-sm mb-4 text-center md:text-left">
+      <div class="text-sm text-center md:text-left">
         Email:
         <a href="mailto:sirkm2022@ukm.edu.my" class="hover:text-gray-400">sirkm2022@ukm.edu.my</a>
         &nbsp;|&nbsp; Attention to: Masnizah Mohd / Lailatul Qadri Zakaria
       </div>
 
-      <div class="flex items-center justify-between">
+      <!-- Bottom section -->
+      <div class="flex flex-col md:flex-row items-center justify-between gap-4">
         <!-- Copyright -->
         <div class="text-sm text-center md:text-left">&copy; 2022 SIRKM2022</div>
 
         <!-- Social media -->
-        <div class="flex justify-center md:justify-start gap-4 mb-4">
+        <div class="flex justify-center md:justify-end gap-4">
           <a href="#" class="hover:text-gray-400">Facebook</a>
           <a href="#" class="hover:text-gray-400">Instagram</a>
         </div>
