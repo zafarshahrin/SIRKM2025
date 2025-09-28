@@ -1,17 +1,7 @@
 <template>
-  <header class="header relative">
-    <!-- ✅ Hero / Banner with responsive image -->
-    <section class="relative w-full">
-      <img
-        src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/bg/sub-event-bg.jpg"
-        class="w-full h-40 sm:h-60 md:h-72 lg:h-80 object-cover"
-        alt="Hero Banner"
-      />
-      <div class="absolute inset-0 bg-purple-400/40"></div>
-    </section>
-
+  <header class="header">
     <!-- ✅ Title section always top-right -->
-    <div class="w-full flex justify-end -mt-10 relative z-10">
+    <div class="w-full flex justify-end">
       <div class="max-w-6xl mx-auto w-full px-4 sm:px-6 md:px-8 flex justify-end">
         <div
           class="bg-black text-white font-bold flex items-center px-6 gap-4 pr-8"
@@ -30,7 +20,7 @@
     </div>
 
     <!-- ✅ Navigation & logo row -->
-    <div class="w-full flex justify-center bg-white relative z-10">
+    <div class="w-full flex justify-center">
       <div
         class="max-w-6xl mx-auto w-full px-4 sm:px-6 md:px-8 flex items-center justify-between gap-10 py-4"
       >
@@ -46,6 +36,7 @@
           class="sm:hidden text-black focus:outline-none"
           @click="menuOpen = !menuOpen"
         >
+          <!-- Icon -->
           <svg
             class="w-6 h-6"
             fill="none"
@@ -148,6 +139,7 @@ const isActive = (item) =>
 
 <style scoped>
 header {
+  position: relative;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 </style>
