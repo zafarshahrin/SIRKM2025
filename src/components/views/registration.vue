@@ -75,7 +75,23 @@
               class="rounded-lg shadow-md w-140 object-cover"
             />
 
+
           </div>
+
+<!-- Two-line gap -->
+<div class="h-8"></div>
+
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">PECAMP REGISTRATION FORM</h2>
+<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+
+<!-- Two-line gap -->
+<div class="h-8"></div>
+
+                                  <img
+              src="https://pecamp.org/main/imgs/form.png"
+              alt="PECAMP form"
+              class="rounded-lg shadow-md w-140 object-cover"
+            />
         </div>
 
         <!-- RIGHT COLUMN -->

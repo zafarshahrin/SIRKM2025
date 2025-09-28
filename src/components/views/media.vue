@@ -23,7 +23,7 @@
         <a
           href="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/posterkeynote252.jpg"
           download
-          class="bg-black text-white px-6 py-3 rounded-lg flex items-center gap-2 hover:bg-gray-800"
+          class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300"
         >
           Keynote Speaker Poster
           <i class="fas fa-download"></i>
@@ -31,7 +31,7 @@
         <a
           href="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/cfp-sirkm22.jpg"
           download
-          class="bg-black text-white px-6 py-3 rounded-lg flex items-center gap-2 hover:bg-gray-800"
+          class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300"
         >
           Seminar Poster
           <i class="fas fa-download"></i>
@@ -39,7 +39,7 @@
         <a
           href="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/VirtualBckgrd%20SIRKM2022-NEW.jpg"
           download
-          class="bg-black text-white px-6 py-3 rounded-lg flex items-center gap-2 hover:bg-gray-800"
+           class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300"
         >
           Virtual Background
           <i class="fas fa-download"></i>

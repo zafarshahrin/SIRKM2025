@@ -8,13 +8,6 @@
 
 
 
-
-
-
-
-
-
-
       <!-- Overlay -->
       <div class="absolute inset-0 bg-white/5"></div>
 
