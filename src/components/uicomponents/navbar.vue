@@ -1,7 +1,8 @@
 <template>
   <header class="header">
+    <!-- Top black bar -->
     <div class="flex justify-end items-center w-full">
-      <div class="flex w-[65%] items-center">
+      <div class="max-w-6xl mx-auto w-full px-4 sm:px-6 md:px-8 flex items-center">
         <!-- Black slanted div -->
         <div
           class="bg-black text-white font-bold flex items-center px-6 gap-4 pr-8"
@@ -19,8 +20,11 @@
       </div>
     </div>
 
+    <!-- Main navbar -->
     <div class="w-full flex justify-center">
-      <div class="w-[55%] flex items-center justify-between gap-10 py-4">
+      <div
+        class="max-w-6xl mx-auto w-full px-4 sm:px-6 md:px-8 flex items-center justify-between gap-6 py-4 flex-wrap"
+      >
         <!-- Logo -->
         <div class="logo shrink-0">
           <router-link to="/">
@@ -29,8 +33,8 @@
         </div>
 
         <!-- Navigation -->
-        <div class="text-black text-[12px]">
-          <ul class="flex gap-6">
+        <div class="text-black text-[12px] w-full md:w-auto mt-4 md:mt-0">
+          <ul class="flex flex-wrap md:flex-nowrap justify-center md:justify-end gap-4 md:gap-6">
             <li
               v-for="item in navItems"
               :key="item.path"

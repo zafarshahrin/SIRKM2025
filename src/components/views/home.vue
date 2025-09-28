@@ -150,5 +150,5 @@ area of interest: SIRKM’25 invite both local and international researchers to 
 </template>
 
 <script setup>
-import heroImg from '@/assets/newposter4.png'
+import heroImg from '@/assets/homesliderpage8.jpeg'
 </script>
