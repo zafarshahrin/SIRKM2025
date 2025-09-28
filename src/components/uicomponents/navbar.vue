@@ -3,7 +3,6 @@
     <!-- ✅ Title section always top-right -->
     <div class="w-full flex justify-end">
       <div class="max-w-6xl mx-auto w-full px-4 sm:px-6 md:px-8 flex justify-end">
-        <!-- Black slanted div -->
         <div
           class="bg-black text-white font-bold flex items-center px-6 gap-4 pr-8"
           style="clip-path: polygon(0% 0%, 100% 0%, 96% 100%, 4% 100%)"
@@ -32,8 +31,29 @@
           </router-link>
         </div>
 
-        <!-- Navigation -->
-        <div class="text-black text-[12px]">
+        <!-- Hamburger (mobile only) -->
+        <button
+          class="sm:hidden text-black focus:outline-none"
+          @click="menuOpen = !menuOpen"
+        >
+          <!-- Icon -->
+          <svg
+            class="w-6 h-6"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M4 6h16M4 12h16M4 18h16"
+            />
+          </svg>
+        </button>
+
+        <!-- Navigation (desktop) -->
+        <div class="hidden sm:block text-black text-[12px]">
           <ul class="flex gap-6 flex-wrap">
             <li
               v-for="item in navItems"
@@ -51,18 +71,39 @@
         </div>
       </div>
     </div>
+
+    <!-- Mobile menu -->
+    <div
+      v-if="menuOpen"
+      class="sm:hidden bg-white shadow-md absolute top-[100%] left-0 w-full z-50"
+    >
+      <ul class="flex flex-col gap-4 p-4 text-black text-sm">
+        <li
+          v-for="item in navItems"
+          :key="item.path"
+          @click="goTo(item.path); menuOpen = false"
+          class="cursor-pointer hover:text-red-800 border-b border-gray-200 pb-2"
+          :class="{
+            'text-indigo-500 font-bold': isActive(item).value,
+          }"
+        >
+          {{ item.name }}
+        </li>
+      </ul>
+    </div>
   </header>
 </template>
 
 <script setup>
-import { computed } from "vue";
+import { ref, computed } from "vue";
 import { useRoute, useRouter } from "vue-router";
 import logo from "@/assets/logo3.png";
 
 const route = useRoute();
 const router = useRouter();
+const menuOpen = ref(false);
 
-// Define nav items with routeName to match route.name
+// Define nav items
 const navItems = [
   { name: "HOME", path: "/", routeName: "home" },
   { name: "CALLS", path: "/calls", routeName: "calls" },
@@ -98,6 +139,7 @@ const isActive = (item) =>
 
 <style scoped>
 header {
+  position: relative;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 </style>
