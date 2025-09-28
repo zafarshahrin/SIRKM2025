@@ -1,8 +1,8 @@
 <template>
   <header class="header">
-    <!-- Top black bar -->
-    <div class="flex justify-end items-center w-full">
-      <div class="max-w-6xl mx-auto w-full px-4 sm:px-6 md:px-8 flex items-center">
+    <!-- ✅ Title section always top-right -->
+    <div class="w-full flex justify-end">
+      <div class="max-w-6xl mx-auto w-full px-4 sm:px-6 md:px-8 flex justify-end">
         <!-- Black slanted div -->
         <div
           class="bg-black text-white font-bold flex items-center px-6 gap-4 pr-8"
@@ -11,7 +11,7 @@
           <div class="pr-4 pl-2 text-sm">SIRKM'25</div>
           <div class="bg-[#4B0082] transform skew-x-20 px-2">
             <div
-              class="-skew-x-20 text-white text-xs px-2 h-8 flex items-center"
+              class="-skew-x-20 text-white text-xs sm:text-sm md:text-base px-2 h-8 flex items-center text-right"
             >
               SEMINAR ON INFORMATION RETRIEVAL AND KNOWLEDGE MANAGEMENT 2025
             </div>
@@ -20,10 +20,10 @@
       </div>
     </div>
 
-    <!-- Main navbar -->
+    <!-- ✅ Navigation & logo row -->
     <div class="w-full flex justify-center">
       <div
-        class="max-w-6xl mx-auto w-full px-4 sm:px-6 md:px-8 flex items-center justify-between gap-6 py-4 flex-wrap"
+        class="max-w-6xl mx-auto w-full px-4 sm:px-6 md:px-8 flex items-center justify-between gap-10 py-4"
       >
         <!-- Logo -->
         <div class="logo shrink-0">
@@ -33,8 +33,8 @@
         </div>
 
         <!-- Navigation -->
-        <div class="text-black text-[12px] w-full md:w-auto mt-4 md:mt-0">
-          <ul class="flex flex-wrap md:flex-nowrap justify-center md:justify-end gap-4 md:gap-6">
+        <div class="text-black text-[12px]">
+          <ul class="flex gap-6 flex-wrap">
             <li
               v-for="item in navItems"
               :key="item.path"
@@ -57,7 +57,7 @@
 <script setup>
 import { computed } from "vue";
 import { useRoute, useRouter } from "vue-router";
-import logo from "@/assets/logo3.png"; // ✅ import local image
+import logo from "@/assets/logo3.png";
 
 const route = useRoute();
 const router = useRouter();

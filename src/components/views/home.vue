@@ -3,18 +3,8 @@
     <!-- Hero Section -->
 <section
   :style="{ backgroundImage: `url(${heroImg})` }"
-  class="relative h-[300px] sm:h-[400px] md:h-[500px] lg:h-[600px] bg-cover bg-center flex items-center justify-center"
+  class="relative h-[500px] bg-cover bg-center flex items-center justify-center"
 >
-  <!-- Overlay -->
-  <div class="absolute inset-0 bg-white/5"></div>
-
-  <!-- Optional hero content -->
-  <div class="relative z-10 text-center text-white px-4">
-    <!-- Example if you want text later -->
-    <!-- <h1 class="text-xl sm:text-2xl md:text-4xl font-bold">Welcome</h1> -->
-  </div>
-</section>
-
 
 
 
