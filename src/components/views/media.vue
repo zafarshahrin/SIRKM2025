@@ -14,6 +14,9 @@
       </div>
     </section>
 
+          <!-- Two-line gap -->
+<div class="h-8"></div>
+
     <div class="container mx-auto px-6 mt-12">
       <!-- Download Buttons -->
       <div class="flex flex-wrap justify-center gap-6 mb-12">
@@ -43,6 +46,9 @@
         </a>
       </div>
 
+          <!-- Two-line gap -->
+<div class="h-8"></div>
+
       <!-- Preview Posters -->
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16 text-center">
         <div>
@@ -68,9 +74,14 @@
         </div>
       </div>
 
+          <!-- Two-line gap -->
+<div class="h-8"></div>
+
       <!-- Picture Gallery -->
       <div class="mb-16">
         <h2 class="text-2xl font-bold text-center mb-8">Picture Gallery</h2>
+                  <!-- Two-line gap -->
+<div class="h-8"></div>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
           <img
             src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/gallery/sirkm5.jpg"
