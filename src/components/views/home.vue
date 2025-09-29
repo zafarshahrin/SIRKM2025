@@ -4,7 +4,7 @@
     <section
       :style="{ backgroundImage: `url(${heroImg})` }"
       class="relative bg-cover bg-center flex items-center justify-center 
-             h-[250px] sm:h-[350px] md:h-[500px]" 
+             h-[300px] sm:h-[350px] md:h-[550px]" 
     >
       <!-- Overlay -->
       <div class="absolute inset-0 bg-white/5"></div>
