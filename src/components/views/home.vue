@@ -3,12 +3,13 @@
     <!-- Hero Section -->
     <section
       :style="{ backgroundImage: `url(${heroImg})` }"
-      class="relative h-[500px] bg-cover bg-center flex items-center justify-center"
+      class="relative bg-cover bg-center flex items-center justify-center 
+             h-[250px] sm:h-[350px] md:h-[500px]" 
     >
       <!-- Overlay -->
       <div class="absolute inset-0 bg-white/5"></div>
 
-      <!-- Optional centered hero content (kept empty as requested) -->
+      <!-- Optional centered hero content -->
       <div class="relative z-10 text-center text-white"></div>
     </section>
 
@@ -53,15 +54,13 @@
       </div>
     </section>
 
-    <!-- Introduction + Important Dates side by side -->
+    <!-- Introduction + Important Dates -->
     <section class="introduction py-9 px-4">
       <div class="max-w-6xl mx-auto grid md:grid-cols-3 gap-8">
-        <!-- Introduction (2/3 width) -->
+        <!-- Introduction -->
         <div class="md:col-span-2">
           <h2 class="text-2xl font-bold text-[#1d3557] mb-2">INTRODUCTION</h2>
           <div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
-
-          <!-- Two-line gap -->
           <div class="h-8"></div>
 
           <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
@@ -105,16 +104,10 @@
           </p>
         </div>
 
-        <!-- Important Dates column -->
+        <!-- Important Dates -->
         <div class="flex flex-col gap-6">
-          <!-- Important Dates Table -->
-          <div
-            class="bg-gradient-to-b from-purple-700 to-purple-400 text-white rounded shadow-md"
-          >
-            <!-- Title -->
-            <h2
-              class="text-lg font-bold px-4 py-3 border-b border-white/30"
-            >
+          <div class="bg-gradient-to-b from-purple-700 to-purple-400 text-white rounded shadow-md">
+            <h2 class="text-lg font-bold px-4 py-3 border-b border-white/30">
               IMPORTANT DATES
             </h2>
 
@@ -141,24 +134,20 @@
               </div>
             </div>
           </div>
-        </div> <!-- closes Important Dates -->
-      </div> <!-- closes grid -->
+        </div> 
+      </div> 
     </section>
 
-    <!-- Topic of Interest -->
+    <!-- Topics -->
     <section class="topics py-9 px-4 bg-gray-50">
       <div class="max-w-4xl mx-auto">
         <h2 class="text-2xl font-bold text-[#1d3557] mb-2">
           TOPIC OF INTEREST
         </h2>
         <div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
-
-        <!-- Two-line gap -->
         <div class="h-8"></div>
 
-        <p
-          class="text-sm text-gray-700 leading-relaxed mb-4 text-justify"
-        >
+        <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
           SIRKM’25 invite both local and international researchers to submit
           extended abstracts of current research being undertaken on the
           following topics (but not limited to):
