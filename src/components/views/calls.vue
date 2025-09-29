@@ -34,7 +34,7 @@
               discussions with experts in information retrieval, knowledge management,
               and its related fields. It also hopes to encourage community-building
               by connecting early and advanced researchers. SIRKM'25 is jointly
-              organised by the Universiti Teknologi Mara (UITM), the Society
+              organised by the Universiti Teknologi Mara (UiTM), the Society
               of Information Retrieval and Knowledge Management, Malaysia (PECAMP)
               and ASEAN Workshop on Information Science and Technology (AWIST).
             </p>
@@ -53,25 +53,6 @@
           </div>
 
           <!-- Two-line gap -->
-<div class="h-8"></div>
-
-          <!-- AWIST Doctoral Consortium -->
-      <div class="max-w-4xl mx-auto">
-                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">*AWIST DOCTORAL CONSORTIUM</h2>
-<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
-
-          <!-- Two-line gap -->
-<div class="h-8"></div>
-            <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-              SIRKM'25 also offered AWIST Doctoral Consortium (Session 3) as an opportunity for PhD students to present, explore and develop their research interests. We invite students who would appreciate feedback on their dissertation research and want to increase its visibility to apply for this unique opportunity to share and discuss their work with a panel of distinguished researchers in the field. Ideal candidates will be mid-way through their program, meaning they have a clear topic and research approach, with some concrete progress but also sufficient time remaining in their program to consider integrating suggestions and new ideas.
-            </p>
-            <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-              <strong>*ASEAN Workshop on Information Science and Technology (AWIST)</strong><br>
-              PhD students from FTSM UKM who presented in AWIST Doctoral Consortium will be exempted from Student Progress Seminar 2025 (applies to all centers-CYBER/CAIT/SOFTAM).
-            </p>
-          </div>
-
-<!-- Two-line gap -->
 <div class="h-8"></div>
 
           <!-- Publication -->

@@ -29,21 +29,20 @@
 
       <!-- Address -->
       <div class="text-sm text-center md:text-left">
-        Faculty of Information Science and Technology, Universiti Kebangsaan
-        Malaysia, 43600 Bangi, Selangor, Malaysia.
+        Faculty of Computer and Mathematical Sciences, Universiti Teknologi MARA, 40450 Shah Alam, Selangor, Malaysia
       </div>
 
       <!-- Contact -->
       <div class="text-sm text-center md:text-left">
         Email:
-        <a href="mailto:sirkm2022@ukm.edu.my" class="hover:text-gray-400">sirkm2022@ukm.edu.my</a>
-        &nbsp;|&nbsp; Attention to: Masnizah Mohd / Lailatul Qadri Zakaria
+        <a href="mailto:sirkm2022@ukm.edu.my" class="hover:text-gray-400">sirkm2025@gmail.com</a>
+        &nbsp;|&nbsp; Attention to: Dr Haslizatul Fairuz binti Mohamed Hanum
       </div>
 
       <!-- Bottom section -->
       <div class="flex flex-col md:flex-row items-center justify-between gap-4">
         <!-- Copyright -->
-        <div class="text-sm text-center md:text-left">&copy; 2022 SIRKM2022</div>
+        <div class="text-sm text-center md:text-left">&copy; 2025 SIRKM2025</div>
 
         <!-- Social media -->
         <div class="flex justify-center md:justify-end gap-4">

@@ -77,7 +77,7 @@
               <a
                 href="mailto:SIRKM2022@UKM.EDU.MY"
                 class="text-yellow-500 font-semibold hover:underline"
-                >SIRKM2022@UKM.EDU.MY</a
+                >sirkm2025@gmail.com</a
               >.
             </p>
           </div>
