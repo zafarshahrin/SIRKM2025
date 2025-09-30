@@ -75,7 +75,7 @@
                 <td class="border px-4 py-2"></td>
                 <td class="border px-4 py-2">Parallel Session 4</td>
                 <td class="border px-4 py-2">Breakout Room 2 – Perplexity</td>
-                <td class="border px-4 py-2">Information Visualisation [IV] & Others</td>
+                <td class="border px-4 py-2">Information Visualisation [IV] & Others [O]</td>
               </tr>
                             <tr class="bg-gray-50">
                 <td class="border px-4 py-2">01:00 pm – 02:00 pm</td>

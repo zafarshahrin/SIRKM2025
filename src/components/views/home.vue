@@ -100,8 +100,8 @@ class="relative bg-contain sm:bg-cover bg-center flex items-center justify-cente
             Design, Computer Vision.
           </p>
           <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-            5. Others: [ Cyber Security, Emerging ICT Application, Mobile
-            Technology Applications, Internet of Things, Industrial Computing. ]
+            5. Others: [O] Cyber Security, Emerging ICT Application, Mobile
+            Technology Applications, Internet of Things, Industrial Computing. 
           </p>
         </div>
 
@@ -122,7 +122,7 @@ class="relative bg-contain sm:bg-cover bg-center flex items-center justify-cente
                 <p>10 NOVEMBER 2025</p>
               </div>
               <div class="px-4 py-3">
-                <p class="font-semibold">CAMERA READY SUBMISSION, (12 Pages):</p>
+                <p class="font-semibold">CAMERA READY SUBMISSION:</p>
                 <p>24 NOVEMBER 2025</p>
               </div>
               <div class="px-4 py-3">
@@ -173,8 +173,8 @@ class="relative bg-contain sm:bg-cover bg-center flex items-center justify-cente
           Design, Computer Vision.
         </p>
         <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-          5. Others: [ Cyber Security, Emerging ICT Application, Mobile
-          Technology Applications, Internet of Things, Industrial Computing. ]
+          5. Others [O]: Cyber Security, Emerging ICT Application, Mobile
+          Technology Applications, Internet of Things, Industrial Computing.
         </p>
       </div>
     </section>

@@ -50,7 +50,7 @@
             <p class="text-sm text-gray-700 leading-relaxed mb-3">
               1. All extended abstracts should be submitted via
               <a
-                href="#"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdqVBzd4b10W-WwxHWY7_G443gaSu_9cyex-DFRFcIaPFNUnQ/viewform?usp=header"
                 class="text-yellow-500 font-semibold hover:underline"
                 target="_blank"
                 >EXTENDED ABSTRACT SUBMISSION FORM</a
@@ -77,7 +77,7 @@
               <br />
               5. The template for the abstract can be downloaded
               <a
-                href="#"
+                href="/SIRKM25 ExtAbstract Template-v2.docx"
                 class="text-yellow-500 font-semibold hover:underline"
                 target="_blank"
                 >HERE</a
@@ -91,8 +91,22 @@
                 >sirkm2025@gmail.com</a
               >.
             </p>
+
+            
           </div>
+
+          <!-- Two-line gap -->
+<div class="h-8"></div>
+
+          <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLSdqVBzd4b10W-WwxHWY7_G443gaSu_9cyex-DFRFcIaPFNUnQ/viewform?usp=header"
+  target="_blank"
+  class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300"
+>
+  CLICK HERE TO REGISTER EXTENDED ABSTRACT SUBMISSION FORM
+</a>
         </div>
+        
 
         <!-- Right Column: Important Dates -->
         <div>
@@ -117,7 +131,7 @@
       <p>10 NOVEMBER 2025</p>
     </div>
     <div class="px-4 py-3">
-      <p class="font-semibold">CAMERA READY SUBMISSION, (12 Pages) :</p>
+      <p class="font-semibold">CAMERA READY SUBMISSION:</p>
       <p>24 NOVEMBER 2025</p>
     </div>
     <div class="px-4 py-3">

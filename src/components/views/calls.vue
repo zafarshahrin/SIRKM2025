@@ -48,7 +48,7 @@
               <li><strong>Knowledge Management [KM]:</strong> Ontology, Decision Support System, Business Intelligence, Knowledge Innovation, Knowledge Sharing.</li>
               <li><strong>Data Science [DS]:</strong> Machine Learning, Big Data, Data Analytics and its Application, Sentiment Analysis, Natural Language Processing.</li>
               <li><strong>Information Visualisation [IV]:</strong> Virtual and Augmented Reality Technology, Multimedia Analytics, Human-Computer Interaction, Game Design, Computer Vision.</li>
-              <li><strong>Others:</strong> [ Cyber Security, Emerging ICT Application, Mobile Technology Applications, Internet of Things, Industrial Computing. ]</li>
+              <li><strong>Others [O]:</strong>  Cyber Security, Emerging ICT Application, Mobile Technology Applications, Internet of Things, Industrial Computing.</li>
             </ul>
           </div>
 
@@ -63,7 +63,7 @@
           <!-- Two-line gap -->
 <div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-              Accepted and presented papers will be published as e-proceedings with ??(TBA).
+              All extended abstracts will undergo a review process. Selected submissions will be recommended for journal publication (TBD)
             </p>
           </div>
 
@@ -111,7 +111,7 @@
       <p>10 NOVEMBER 2025</p>
     </div>
     <div class="px-4 py-3">
-      <p class="font-semibold">CAMERA READY SUBMISSION, (12 Pages) :</p>
+      <p class="font-semibold">CAMERA READY SUBMISSION:</p>
       <p>24 NOVEMBER 2025</p>
     </div>
     <div class="px-4 py-3">
