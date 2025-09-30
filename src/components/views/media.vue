@@ -14,64 +14,54 @@
       </div>
     </section>
 
-          <!-- Two-line gap -->
-<div class="h-8"></div>
+    <!-- Two-line gap -->
+    <div class="h-8"></div>
 
     <div class="container mx-auto px-6 mt-12">
-      <!-- Download Buttons -->
-      <div class="flex flex-wrap  gap-6 mb-12">
-        
-        <a
-          href="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/cfp-sirkm22.jpg"
-          download
-          class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300"
-        >
-          Seminar Poster
-          <i class="fas fa-download"></i>
-        </a>
-        <a
-          href="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/VirtualBckgrd%20SIRKM2022-NEW.jpg"
-          download
-           class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300"
-        >
-          Virtual Background
-          <i class="fas fa-download"></i>
-        </a>
-      </div>
-
-          <!-- Two-line gap -->
-<div class="h-8"></div>
-
-      <!-- Preview Posters -->
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16 text-center">
-
+      <!-- Posters + Buttons Section -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16 text-center">
+        <!-- Seminar Poster -->
         <div>
-          <h3 class="font-semibold mb-3">Seminar Poster</h3>
+          <a
+            href="/seminarposter.jpg"
+            download="SeminarPoster.jpg"
+            class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300 mb-4"
+          >
+            Seminar Poster
+            <i class="fas fa-download ml-2"></i>
+          </a>
+          <!-- Two-line gap -->
+          <div class="h-8"></div>
           <img
-            src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/cfp-sirkm22.jpg"
+            src="/seminarposter.jpg"
+            alt="Seminar Poster"
             class="rounded-lg shadow-md mx-auto"
           />
         </div>
 
-
-        
+        <!-- Virtual Background -->
         <div>
-          <h3 class="font-semibold mb-3">Virtual Background</h3>
+          <a
+            href="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/VirtualBckgrd%20SIRKM2022-NEW.jpg"
+            download="VirtualBackground.jpg"
+            class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300 mb-4"
+          >
+            Virtual Background
+            <i class="fas fa-download ml-2"></i>
+          </a>
+          <!-- Two-line gap -->
+          <div class="h-8"></div>
           <img
             src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/VirtualBckgrd%20SIRKM2022-NEW.jpg"
+            alt="Virtual Background"
             class="rounded-lg shadow-md mx-auto"
           />
         </div>
       </div>
-
-          <!-- Two-line gap -->
-<div class="h-8"></div>
 
       <!-- Picture Gallery -->
       <div class="mb-16">
         <h2 class="text-2xl font-bold text-center mb-8">Picture Gallery</h2>
-                  <!-- Two-line gap -->
-<div class="h-8"></div>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
           <img
             src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/gallery/sirkm5.jpg"
@@ -111,5 +101,4 @@
   </div>
 </template>
 
-<script setup>
-</script>
+<script setup></script>
