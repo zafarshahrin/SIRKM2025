@@ -31,7 +31,7 @@
               Extended abstracts should be at most 2-4 pages in length,
               including diagrams, figures, tables, and others. Submissions will
               undergo a review process where all accepted abstracts will be
-              included in the SIRKM’22 seminar proceedings. The respective
+              included in the SIRKM’25 seminar proceedings. The respective
               authors will be required to give a 10 minutes presentation during
               the seminar and 5 minutes question and answering session.
             </p>
@@ -61,9 +61,20 @@
               Filtering.docx<br />
               3. The naming convention for the document should be
               trackID_authorName_ShortTitle.docx <br />
-              4. Track IDs are as follows: IR (Information Retrieval), KM
-              (Knowledge Management), DS (Data Science), and IV (Information
-              Visualisation).<br />
+              
+<p class="text-sm text-gray-700 leading-relaxed mb-3">
+  4. Track IDs are as follows:
+</p>
+
+<ul class="list-disc pl-6 text-gray-700 space-y-2 mb-4 text-sm">
+  <li><strong>Information Retrieval [IR]:</strong> Information Seeking and Behaviour, Search Interfaces, Search Engine, Semantic Technology, IR Applications.</li>
+  <li><strong>Knowledge Management [KM]:</strong> Ontology, Decision Support System, Business Intelligence, Knowledge Innovation, Knowledge Sharing.</li>
+  <li><strong>Data Science [DS]:</strong> Machine Learning, Big Data, Data Analytics and its Application, Sentiment Analysis, Natural Language Processing.</li>
+  <li><strong>Information Visualisation [IV]:</strong> Virtual and Augmented Reality Technology, Multimedia Analytics, Human-Computer Interaction, Game Design, Computer Vision.</li>
+  <li><strong>Others:</strong> Cyber Security, Emerging ICT Application, Mobile Technology Applications, Internet of Things, Industrial Computing.</li>
+</ul>
+
+              <br />
               5. The template for the abstract can be downloaded
               <a
                 href="#"

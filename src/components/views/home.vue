@@ -100,8 +100,8 @@ class="relative bg-contain sm:bg-cover bg-center flex items-center justify-cente
             Design, Computer Vision.
           </p>
           <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-            5. Others: Cyber Security, Emerging ICT Application, Mobile
-            Technology Applications, Internet of Things, Industrial Computing.
+            5. Others: [ Cyber Security, Emerging ICT Application, Mobile
+            Technology Applications, Internet of Things, Industrial Computing. ]
           </p>
         </div>
 
@@ -173,8 +173,8 @@ class="relative bg-contain sm:bg-cover bg-center flex items-center justify-cente
           Design, Computer Vision.
         </p>
         <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-          5. Others: Cyber Security, Emerging ICT Application, Mobile
-          Technology Applications, Internet of Things, Industrial Computing.
+          5. Others: [ Cyber Security, Emerging ICT Application, Mobile
+          Technology Applications, Internet of Things, Industrial Computing. ]
         </p>
       </div>
     </section>
@@ -182,5 +182,5 @@ class="relative bg-contain sm:bg-cover bg-center flex items-center justify-cente
 </template>
 
 <script setup>
-import heroImg from "@/assets/homesliderpage8.jpeg";
+import heroImg from "@/assets/homesliderpage10.jpg";
 </script>

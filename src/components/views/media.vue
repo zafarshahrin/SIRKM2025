@@ -19,15 +19,8 @@
 
     <div class="container mx-auto px-6 mt-12">
       <!-- Download Buttons -->
-      <div class="flex flex-wrap justify-center gap-6 mb-12">
-        <a
-          href="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/posterkeynote252.jpg"
-          download
-          class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300"
-        >
-          Keynote Speaker Poster
-          <i class="fas fa-download"></i>
-        </a>
+      <div class="flex flex-wrap  gap-6 mb-12">
+        
         <a
           href="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/cfp-sirkm22.jpg"
           download
@@ -51,13 +44,7 @@
 
       <!-- Preview Posters -->
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16 text-center">
-        <div>
-          <h3 class="font-semibold mb-3">Keynote Speaker Poster</h3>
-          <img
-            src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/posterkeynote252.jpg"
-            class="rounded-lg shadow-md mx-auto"
-          />
-        </div>
+
         <div>
           <h3 class="font-semibold mb-3">Seminar Poster</h3>
           <img
@@ -65,6 +52,9 @@
             class="rounded-lg shadow-md mx-auto"
           />
         </div>
+
+
+        
         <div>
           <h3 class="font-semibold mb-3">Virtual Background</h3>
           <img

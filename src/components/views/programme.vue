@@ -28,7 +28,13 @@
 
       <!-- Example Tentative Table -->
       <div>
-        <h3 class="text-2xl font-semibold mb-4">Day 1</h3>
+        <h3 class="text-2xl font-semibold mb-4">Morning Session</h3>
+        
+       
+<p class="text-sm text-gray-700 leading-relaxed mb-4 text-center">
+  Microsoft Teams Link : TBA
+</p>
+
         <div class="overflow-x-auto mb-6">
           <table class="w-full border border-gray-300 text-sm">
             <thead>
@@ -41,31 +47,56 @@
             </thead>
             <tbody>
               <tr>
-                <td class="border px-4 py-2">08:30 am – 09:00 am</td>
-                <td class="border px-4 py-2">Registration</td>
-                <td class="border px-4 py-2">Main Hall</td>
-                <td class="border px-4 py-2">---</td>
+                <td class="border px-4 py-2">09:00 am – 11:00 am</td>
+                <td class="border px-4 py-2">Parallel Session 1 
+</td>
+                <td class="border px-4 py-2">Breakout Room 1 - Gemini</td>
+                <td class="border px-4 py-2">Information Retrieval [IR]</td>
+              </tr>
+                            <tr>
+                <td class="border px-4 py-2"></td>
+                <td class="border px-4 py-2">Parallel Session 2</td>
+                <td class="border px-4 py-2">Breakout Room 2 - Perplexity</td>
+                <td class="border px-4 py-2">Knowledge Management [KM]</td>
               </tr>
               <tr class="bg-gray-50">
-                <td class="border px-4 py-2">09:00 am – 10:30 am</td>
-                <td class="border px-4 py-2">Opening Ceremony</td>
-                <td class="border px-4 py-2">Main Hall</td>
-                <td class="border px-4 py-2">Welcome Speech & Keynote</td>
-              </tr>
-              <tr>
-                <td class="border px-4 py-2">10:30 am – 11:00 am</td>
+                <td class="border px-4 py-2">11:00 am – 11:15 am</td>
                 <td class="border px-4 py-2">Break</td>
                 <td class="border px-4 py-2">---</td>
-                <td class="border px-4 py-2">Refreshments</td>
+                <td class="border px-4 py-2">---</td>
+              </tr>
+              <tr>
+                <td class="border px-4 py-2">11:15 am – 01:00 pm</td>
+                <td class="border px-4 py-2">Parallel Session 3</td>
+                <td class="border px-4 py-2">Breakout Room 1 – Gemini</td>
+                <td class="border px-4 py-2">Artificial Intelligence [AI] & Data Science [DS]</td>
+              </tr>
+                            <tr>
+                <td class="border px-4 py-2"></td>
+                <td class="border px-4 py-2">Parallel Session 4</td>
+                <td class="border px-4 py-2">Breakout Room 2 – Perplexity</td>
+                <td class="border px-4 py-2">Information Visualisation [IV] & Others</td>
+              </tr>
+                            <tr class="bg-gray-50">
+                <td class="border px-4 py-2">01:00 pm – 02:00 pm</td>
+                <td class="border px-4 py-2">Lunch Break</td>
+                <td class="border px-4 py-2">---</td>
+                <td class="border px-4 py-2">---</td>
               </tr>
             </tbody>
           </table>
         </div>
       </div>
 
+          <!-- Two-line gap -->
+<div class="h-8"></div>
+
       <!-- Duplicate for Day 2 -->
       <div>
-        <h3 class="text-2xl font-semibold mb-4">Day 2</h3>
+        <h3 class="text-2xl font-semibold mb-4">Afternoon Session</h3>
+        <p class="text-sm text-gray-700 leading-relaxed mb-4 text-center">
+  Microsoft Teams Link : TBA
+</p>
         <div class="overflow-x-auto mb-6">
           <table class="w-full border border-gray-300 text-sm">
             <thead>
@@ -78,22 +109,22 @@
             </thead>
             <tbody>
               <tr>
-                <td class="border px-4 py-2">08:30 am – 09:00 am</td>
-                <td class="border px-4 py-2">Registration</td>
-                <td class="border px-4 py-2">Main Hall</td>
-                <td class="border px-4 py-2">---</td>
+                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">Tba</td>
               </tr>
               <tr class="bg-gray-50">
-                <td class="border px-4 py-2">09:00 am – 10:30 am</td>
-                <td class="border px-4 py-2">Parallel Sessions</td>
-                <td class="border px-4 py-2">Rooms A, B, C</td>
-                <td class="border px-4 py-2">---</td>
+                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">Tba</td>
               </tr>
               <tr>
-                <td class="border px-4 py-2">11:00 am – 12:00 pm</td>
-                <td class="border px-4 py-2">Closing Ceremony</td>
-                <td class="border px-4 py-2">Main Hall</td>
-                <td class="border px-4 py-2">---</td>
+                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">Tba</td>
               </tr>
             </tbody>
           </table>

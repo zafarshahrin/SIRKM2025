@@ -48,7 +48,7 @@
               <li><strong>Knowledge Management [KM]:</strong> Ontology, Decision Support System, Business Intelligence, Knowledge Innovation, Knowledge Sharing.</li>
               <li><strong>Data Science [DS]:</strong> Machine Learning, Big Data, Data Analytics and its Application, Sentiment Analysis, Natural Language Processing.</li>
               <li><strong>Information Visualisation [IV]:</strong> Virtual and Augmented Reality Technology, Multimedia Analytics, Human-Computer Interaction, Game Design, Computer Vision.</li>
-              <li><strong>Others:</strong> Cyber Security, Emerging ICT Application, Mobile Technology Applications, Internet of Things, Industrial Computing.</li>
+              <li><strong>Others:</strong> [ Cyber Security, Emerging ICT Application, Mobile Technology Applications, Internet of Things, Industrial Computing. ]</li>
             </ul>
           </div>
 
@@ -63,7 +63,7 @@
           <!-- Two-line gap -->
 <div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-              Accepted and presented papers will be published as e-proceedings with eISBN.
+              Accepted and presented papers will be published as e-proceedings with ??(TBA).
             </p>
           </div>
 
@@ -72,7 +72,7 @@
 
           <!-- Best Paper Award -->
       <div class="max-w-4xl mx-auto">
-                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">BEST PAPER AWARD</h2>
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">BEST AWARD</h2>
 <div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
 
           <!-- Two-line gap -->
@@ -82,36 +82,9 @@
             </p>
           </div>
 
-          <!-- Two-line gap -->
-<div class="h-8"></div>
 
-          <!-- Invited Speakers -->
-      <div class="max-w-4xl mx-auto">
-                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">INVITED SPEAKER</h2>
-<div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
 
-          <!-- Two-line gap -->
-<div class="h-8"></div>
-            <div class="flex justify-center gap-8 flex-wrap">
-              <div class="text-center w-40">
-                <img src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/mizo.jpg" alt="Riichiro Mizoguchi" class="mx-auto rounded-lg mb-2"/>
-                <h3 class="font-semibold text-sm">Riichiro Mizoguchi</h3>
-                <p class="text-xs text-gray-600">Japan Advanced Institute of Science and Technology</p>
-              </div>
 
-              <div class="text-center w-40">
-                <img src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/shahrulterkini.jpg" alt="Shahrul Azman Mohd Noah" class="mx-auto rounded-lg mb-2"/>
-                <h3 class="font-semibold text-sm">Shahrul Azman Mohd Noah</h3>
-                <p class="text-xs text-gray-600">Universiti Kebangsaan Malaysia</p>
-              </div>
-
-              <div class="text-center w-40">
-                <img src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/alan.jpg" alt="Alan Smeaton" class="mx-auto rounded-lg mb-2"/>
-                <h3 class="font-semibold text-sm">Alan Smeaton</h3>
-                <p class="text-xs text-gray-600">Dublin City University</p>
-              </div>
-            </div>
-          </div>
 
         </div>
 
