@@ -42,7 +42,7 @@
         <!-- Virtual Background -->
         <div>
           <a
-            href="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/VirtualBckgrd%20SIRKM2022-NEW.jpg"
+            href="/virtualbackground.jpg"
             download="VirtualBackground.jpg"
             class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300 mb-4"
           >
@@ -52,7 +52,7 @@
           <!-- Two-line gap -->
           <div class="h-8"></div>
           <img
-            src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/VirtualBckgrd%20SIRKM2022-NEW.jpg"
+            src="/virtualbackground.jpg"
             alt="Virtual Background"
             class="rounded-lg shadow-md mx-auto"
           />
