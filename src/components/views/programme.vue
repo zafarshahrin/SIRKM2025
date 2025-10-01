@@ -125,7 +125,7 @@
               </tr>
               <tr>
                 <td class="border px-4 py-2">Tba</td>
-                <td class="border px-4 py-2">Ziela & Zaf </td>
+                <td class="border px-4 py-2">Tba</td>
                 <td class="border px-4 py-2">Tba</td>
                 <td class="border px-4 py-2">Tba</td>
               </tr>
