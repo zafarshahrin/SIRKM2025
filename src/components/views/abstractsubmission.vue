@@ -50,7 +50,7 @@
             <p class="text-sm text-gray-700 leading-relaxed mb-3">
               1. All extended abstracts should be submitted via
               <a
-                href="https://docs.google.com/forms/d/e/1FAIpQLSdqVBzd4b10W-WwxHWY7_G443gaSu_9cyex-DFRFcIaPFNUnQ/viewform?usp=header"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSeVkNiSVZrIrblo5kc_lF6VyVqj7DOLvHO4WE782tmJob-zUg/viewform"
                 class="text-yellow-500 font-semibold hover:underline"
                 target="_blank"
                 >EXTENDED ABSTRACT SUBMISSION FORM</a
@@ -131,7 +131,7 @@
 <div class="h-8"></div>
 
           <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSdqVBzd4b10W-WwxHWY7_G443gaSu_9cyex-DFRFcIaPFNUnQ/viewform?usp=header"
+  href="https://docs.google.com/forms/d/e/1FAIpQLSeVkNiSVZrIrblo5kc_lF6VyVqj7DOLvHO4WE782tmJob-zUg/viewform"
   target="_blank"
   class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300"
 >

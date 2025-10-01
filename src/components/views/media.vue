@@ -22,14 +22,14 @@
       <div class="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16 text-center">
         <!-- Seminar Poster -->
         <div>
-          <a
-            href="/seminarposter.jpg"
-            download="SeminarPoster.jpg"
-            class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300 mb-4"
-          >
-            Seminar Poster
-            <i class="fas fa-download ml-2"></i>
-          </a>
+        <a
+          href="/seminarposter.jpg"
+          download
+          class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
+        >
+          <UiIcon :icon="['fas', 'cloud-arrow-down']" />
+          <span>SEMINAR POSTER</span>
+        </a>
           <!-- Two-line gap -->
           <div class="h-8"></div>
           <img
@@ -41,14 +41,14 @@
 
         <!-- Virtual Background -->
         <div>
-          <a
-            href="/virtualbackground.jpg"
-            download="VirtualBackground.jpg"
-            class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300 mb-4"
-          >
-            Virtual Background
-            <i class="fas fa-download ml-2"></i>
-          </a>
+        <a
+          href="/virtualbackground.jpg"
+          download
+          class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
+        >
+          <UiIcon :icon="['fas', 'cloud-arrow-down']" />
+          <span>VIRTUAL BACKGROUND</span>
+        </a>
           <!-- Two-line gap -->
           <div class="h-8"></div>
           <img
@@ -101,4 +101,6 @@
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+import UiIcon from "@/components/uicomponents/UiIcon.vue";
+</script>

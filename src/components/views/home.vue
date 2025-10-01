@@ -3,9 +3,8 @@
     <!-- Hero Section -->
     <section
       :style="{ backgroundImage: `url(${heroImg})` }"
-class="relative bg-contain sm:bg-cover bg-center flex items-center justify-center 
+      class="relative bg-contain sm:bg-cover bg-center flex items-center justify-center 
        h-[250px] sm:h-[350px] md:h-[550px] bg-no-repeat"
-
     >
       <!-- Overlay -->
       <div class="absolute inset-0 bg-white/5"></div>
@@ -17,41 +16,47 @@ class="relative bg-contain sm:bg-cover bg-center flex items-center justify-cente
     <!-- Download Buttons -->
     <section class="downloads bg-white py-8 px-4 text-center">
       <div class="flex justify-center flex-wrap gap-4">
+
+        <!-- Button 1 -->
         <a
           href="#"
           download
           class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
         >
-          <i class="fa-solid fa-cloud-arrow-down"></i>
-          GENERAL PROGRAMME SCHEDULE
+          <UiIcon :icon="['fas', 'cloud-arrow-down']" />
+          <span>GENERAL PROGRAMME SCHEDULE</span>
         </a>
 
+        <!-- Button 2 -->
         <a
           href="#"
           download
           class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
         >
-          <i class="fa-solid fa-cloud-arrow-down"></i>
-          PARALLEL SESSION 1 &amp; 2 SCHEDULE
+          <UiIcon :icon="['fas', 'cloud-arrow-down']" />
+          <span>PARALLEL SESSION 1 &amp; 2 SCHEDULE</span>
         </a>
 
+        <!-- Button 3 -->
         <a
           href="#"
           download
           class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
         >
-          <i class="fa-solid fa-cloud-arrow-down"></i>
-          PARALLEL SESSION 3 SCHEDULE
+          <UiIcon :icon="['fas', 'cloud-arrow-down']" />
+          <span>PARALLEL SESSION 3 SCHEDULE</span>
         </a>
 
+        <!-- Button 4 -->
         <a
           href="#"
           download
           class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
         >
-          <i class="fa-solid fa-cloud-arrow-down"></i>
-          E-PROCEEDING
+          <UiIcon :icon="['fas', 'cloud-arrow-down']" />
+          <span>E-PROCEEDING</span>
         </a>
+
       </div>
     </section>
 
@@ -90,7 +95,7 @@ class="relative bg-contain sm:bg-cover bg-center flex items-center justify-cente
             Business Intelligence, Knowledge Innovation, Knowledge Sharing.
           </p>
           <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-            3. Artificial Intelligence [AI] & Data Science [DS]: Machine
+            3. Artificial Intelligence & Data Science [DS]: Machine
             Learning, Big Data, Data Analytics and its Application, Sentiment
             Analysis, Natural Language Processing.
           </p>
@@ -163,7 +168,7 @@ class="relative bg-contain sm:bg-cover bg-center flex items-center justify-cente
           Business Intelligence, Knowledge Innovation, Knowledge Sharing.
         </p>
         <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-          3. Artificial Intelligence [AI] & Data Science [DS]: Machine
+          3. Artificial Intelligence & Data Science [DS]: Machine
           Learning, Big Data, Data Analytics and its Application, Sentiment
           Analysis, Natural Language Processing.
         </p>
@@ -183,4 +188,6 @@ class="relative bg-contain sm:bg-cover bg-center flex items-center justify-cente
 
 <script setup>
 import heroImg from "@/assets/homesliderpage10.jpg";
+import UiIcon from "@/components/uicomponents/UiIcon.vue";
+
 </script>

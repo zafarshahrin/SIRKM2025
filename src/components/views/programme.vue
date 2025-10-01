@@ -67,7 +67,7 @@
                 <td class="border px-4 py-2">Parallel Session 3</td>
                 <td class="border px-4 py-2">Breakout Room 1 – Gemini</td>
                 <td class="border px-4 py-2">
-                  Artificial Intelligence [AI] & Data Science [DS]
+                  Artificial Intelligence & Data Science [DS]
                 </td>
               </tr>
               <tr>

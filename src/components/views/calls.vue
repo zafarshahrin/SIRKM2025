@@ -46,7 +46,7 @@
             <ul class="list-disc pl-6 text-gray-700 space-y-2 mb-4 text-sm">
               <li><strong>Information Retrieval [IR]:</strong> Information Seeking and Behaviour, Search interfaces, Search Engine, Semantic Technology, IR Applications.</li>
               <li><strong>Knowledge Management [KM]:</strong> Ontology, Decision Support System, Business Intelligence, Knowledge Innovation, Knowledge Sharing.</li>
-              <li><strong>Data Science [DS]:</strong> Machine Learning, Big Data, Data Analytics and its Application, Sentiment Analysis, Natural Language Processing.</li>
+              <li><strong>Artificial Intelligence & Data Science [DS]:</strong> Machine Learning, Big Data, Data Analytics and its Application, Sentiment Analysis, Natural Language Processing.</li>
               <li><strong>Information Visualisation [IV]:</strong> Virtual and Augmented Reality Technology, Multimedia Analytics, Human-Computer Interaction, Game Design, Computer Vision.</li>
               <li><strong>Others [O]:</strong>  Cyber Security, Emerging ICT Application, Mobile Technology Applications, Internet of Things, Industrial Computing.</li>
             </ul>
