@@ -66,13 +66,45 @@
   4. Track IDs are as follows:
 </p>
 
-<ul class="list-disc pl-6 text-gray-700 space-y-2 mb-4 text-sm">
-  <li><strong>Information Retrieval [IR]:</strong> Information Seeking and Behaviour, Search Interfaces, Search Engine, Semantic Technology, IR Applications.</li>
-  <li><strong>Knowledge Management [KM]:</strong> Ontology, Decision Support System, Business Intelligence, Knowledge Innovation, Knowledge Sharing.</li>
-  <li><strong>Data Science [DS]:</strong> Machine Learning, Big Data, Data Analytics and its Application, Sentiment Analysis, Natural Language Processing.</li>
-  <li><strong>Information Visualisation [IV]:</strong> Virtual and Augmented Reality Technology, Multimedia Analytics, Human-Computer Interaction, Game Design, Computer Vision.</li>
-  <li><strong>Others [O]:</strong> Cyber Security, Emerging ICT Application, Mobile Technology Applications, Internet of Things, Industrial Computing.</li>
-</ul>
+<!-- Track ID Table -->
+<div class="overflow-x-auto mb-6">
+  <table class="w-full border border-gray-300 text-sm">
+    <thead>
+      <tr class="bg-purple-500 text-white text-left">
+        <th class="border px-4 py-2">Track ID</th>
+        <th class="border px-4 py-2">Track Name</th>
+        <th class="border px-4 py-2">Track Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="border px-4 py-2 font-semibold">IR</td>
+        <td class="border px-4 py-2">Information Retrieval</td>
+        <td class="border px-4 py-2">Information Seeking and Behaviour, Search Interfaces, Search Engine, Semantic Technology, IR Applications.</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="border px-4 py-2 font-semibold">KM</td>
+        <td class="border px-4 py-2">Knowledge Management</td>
+        <td class="border px-4 py-2">Ontology, Decision Support System, Business Intelligence, Knowledge Innovation, Knowledge Sharing.</td>
+      </tr>
+      <tr>
+        <td class="border px-4 py-2 font-semibold">DS</td>
+        <td class="border px-4 py-2">Data Science</td>
+        <td class="border px-4 py-2">Machine Learning, Big Data, Data Analytics and its Application, Sentiment Analysis, Natural Language Processing.</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="border px-4 py-2 font-semibold">IV</td>
+        <td class="border px-4 py-2">Information Visualisation</td>
+        <td class="border px-4 py-2">Virtual and Augmented Reality Technology, Multimedia Analytics, Human-Computer Interaction, Game Design, Computer Vision.</td>
+      </tr>
+      <tr>
+        <td class="border px-4 py-2 font-semibold">O</td>
+        <td class="border px-4 py-2">Others</td>
+        <td class="border px-4 py-2">Cyber Security, Emerging ICT Application, Mobile Technology Applications, Internet of Things, Industrial Computing.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
               <br />
               5. The template for the abstract can be downloaded
