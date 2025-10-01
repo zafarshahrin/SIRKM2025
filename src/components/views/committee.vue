@@ -31,7 +31,7 @@
         <table class="w-full border border-gray-300 text-sm">
           <thead class="bg-purple-600 text-white">
             <tr>
-              <th class="border px-4 py-2 text-left">Name & Affiliation</th>
+              <th class="border px-4 py-2 text-left">Name </th>
               <th class="border px-4 py-2 text-left">Position</th>
             </tr>
           </thead>
@@ -61,7 +61,7 @@
         <table class="w-full border border-gray-300 text-sm">
           <thead class="bg-purple-600 text-white">
             <tr>
-              <th class="border px-4 py-2 text-left">Name & Affiliation</th>
+              <th class="border px-4 py-2 text-left">Name </th>
               <th class="border px-4 py-2 text-left">Position</th>
             </tr>
           </thead>

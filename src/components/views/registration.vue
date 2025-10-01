@@ -100,7 +100,7 @@
             <p><strong>Account Number:</strong> 8600451169</p>
             <p><strong>Swift Code:</strong> CTBBMYKL</p>
             <p><strong>Branch:</strong> CIMB Islamic Bank Berhad, Cawangan UNIKEB , UKM Bangi ,43600 Selangor, Malaysia</p>
-            <p><strong>References:</strong> SIRKM2025</p>
+            <p><strong>Reference:</strong> SIRKM2025</p>
           </div>
 <!-- Two-line gap -->
 <div class="h-8"></div>
@@ -121,7 +121,7 @@
 <div class="h-8"></div>
           <!-- Registration Form -->
                           
-                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">REGISTRATION FORM</h2>
+                 <h2 class="text-2xl font-bold text-[#1d3557] mb-2 ">SIRKM'25 REGISTRATION FORM</h2>
 <div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
 
           <!-- Two-line gap -->

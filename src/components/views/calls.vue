@@ -63,7 +63,7 @@
           <!-- Two-line gap -->
 <div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-              All extended abstracts will undergo a review process. Selected submissions will be recommended for journal publication (TBD)
+              All extended abstracts will undergo a review process. Selected submissions will be recommended for journal publication (TBA)
             </p>
           </div>
 
@@ -78,7 +78,7 @@
           <!-- Two-line gap -->
 <div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-              SIRKM'25 will have the Best Paper Award for each track, which will be announced and bestowed at the seminar closing session.
+              SIRKM'25 will have the Best Award which will be announced and bestowed at the seminar closing session.
             </p>
           </div>
 
@@ -122,6 +122,11 @@
       <p class="font-semibold">SEMINAR PRESENTATION (ONLINE):</p>
       <p>25 NOVEMBER 2025</p>
     </div>
+        <div class="px-4 py-3">
+      <p class="font-semibold">WORKSHOP:</p>
+      <p>25 NOVEMBER 2025</p>
+    </div>
+    
  </div> 
 
 </div>

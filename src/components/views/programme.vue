@@ -44,18 +44,20 @@
               </tr>
             </thead>
             <tbody>
-              <tr>
-                <td class="border px-4 py-2">09:00 am – 11:00 am</td>
-                <td class="border px-4 py-2">Parallel Session 1</td>
-                <td class="border px-4 py-2">Breakout Room 1 - Gemini</td>
-                <td class="border px-4 py-2">Information Retrieval [IR]</td>
-              </tr>
-              <tr>
-                <td class="border px-4 py-2"></td>
-                <td class="border px-4 py-2">Parallel Session 2</td>
-                <td class="border px-4 py-2">Breakout Room 2 - Perplexity</td>
-                <td class="border px-4 py-2">Knowledge Management [KM]</td>
-              </tr>
+<tr>
+  <!-- merge dua baris time -->
+  <td class="border px-4 py-2" rowspan="2">09:00 am – 11:00 am</td>
+  <td class="border px-4 py-2">Parallel Session 1</td>
+  <td class="border px-4 py-2">Breakout Room 1 - Gemini</td>
+  <td class="border px-4 py-2">Information Retrieval [IR]</td>
+</tr>
+<tr>
+  <!-- time column dah merge, jadi kosongkan -->
+  <td class="border px-4 py-2">Parallel Session 2</td>
+  <td class="border px-4 py-2">Breakout Room 2 - Perplexity</td>
+  <td class="border px-4 py-2">Knowledge Management [KM]</td>
+</tr>
+
               <tr class="bg-gray-50">
                 <td class="border px-4 py-2">11:00 am – 11:15 am</td>
                 
@@ -63,7 +65,7 @@
                 <td class="border px-4 py-2 text-center" colspan="3">Break</td>
               </tr>
               <tr>
-                <td class="border px-4 py-2">11:15 am – 01:00 pm</td>
+                <td class="border px-4 py-2" rowspan="2">11:15 am – 01:00 pm</td>
                 <td class="border px-4 py-2">Parallel Session 3</td>
                 <td class="border px-4 py-2">Breakout Room 1 – Gemini</td>
                 <td class="border px-4 py-2">
@@ -71,7 +73,7 @@
                 </td>
               </tr>
               <tr>
-                <td class="border px-4 py-2"></td>
+                
                 <td class="border px-4 py-2">Parallel Session 4</td>
                 <td class="border px-4 py-2">Breakout Room 2 – Perplexity</td>
                 <td class="border px-4 py-2">

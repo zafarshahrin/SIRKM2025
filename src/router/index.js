@@ -3,7 +3,7 @@ import { createRouter, createWebHistory } from "vue-router";
 import Layout from "../components/layout.vue";
 import Home from "../components/views/home.vue";
 import Calls from "../components/views/calls.vue";
-import InvitedSpeaker from "../components/views/invitedspeaker.vue";
+import Workshop from "../components/views/workshop.vue";
 import AbstractSubmission from "../components/views/abstractsubmission.vue";
 import Programme from "../components/views/programme.vue";
 import Registration from "../components/views/registration.vue";
@@ -19,9 +19,9 @@ const routes = [
       { path: "home", name: "Home", component: Home },
       { path: "calls", name: "Calls", component: Calls },
       {
-        path: "invited-speaker",
-        name: "InvitedSpeaker",
-        component: InvitedSpeaker,
+        path: "workshop",
+        name: "Workshop",
+        component: Workshop,
       },
       {
         path: "abstract-submission",

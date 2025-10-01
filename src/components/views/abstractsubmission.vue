@@ -48,13 +48,9 @@
           <!-- Two-line gap -->
 <div class="h-8"></div>
             <p class="text-sm text-gray-700 leading-relaxed mb-3">
-              1. All extended abstracts should be submitted via
-              <a
-                href="https://docs.google.com/forms/d/e/1FAIpQLSeVkNiSVZrIrblo5kc_lF6VyVqj7DOLvHO4WE782tmJob-zUg/viewform"
-                class="text-yellow-500 font-semibold hover:underline"
-                target="_blank"
-                >EXTENDED ABSTRACT SUBMISSION FORM</a
-              >. <br />
+              1. All extended abstracts should be submitted via Extended Abstract Submission Form before the due date.
+
+               <br />
               2. The subject heading of the email should be
               trackID_authorName_shortTitle.<br />
               &nbsp;&nbsp;&nbsp;Eg. IR_Fabio_Graph Collaborative
@@ -172,6 +168,10 @@
     </div>
     <div class="px-4 py-3">
       <p class="font-semibold">SEMINAR PRESENTATION (ONLINE):</p>
+      <p>25 NOVEMBER 2025</p>
+    </div>
+        <div class="px-4 py-3">
+      <p class="font-semibold">WORKSHOP:</p>
       <p>25 NOVEMBER 2025</p>
     </div>
  </div> 

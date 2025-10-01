@@ -59,44 +59,7 @@
         </div>
       </div>
 
-      <!-- Picture Gallery -->
-      <div class="mb-16">
-        <h2 class="text-2xl font-bold text-center mb-8">Picture Gallery</h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-          <img
-            src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/gallery/sirkm5.jpg"
-            class="rounded-lg shadow-md"
-          />
-          <img
-            src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/gallery/sirkm9.jpg"
-            class="rounded-lg shadow-md"
-          />
-          <img
-            src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/gallery/sirkm7.jpg"
-            class="rounded-lg shadow-md"
-          />
-          <img
-            src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/gallery/sirkm8.jpg"
-            class="rounded-lg shadow-md"
-          />
-          <img
-            src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/gallery/sirkm10.jpg"
-            class="rounded-lg shadow-md"
-          />
-          <img
-            src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/gallery/sirkm6.jpg"
-            class="rounded-lg shadow-md"
-          />
-          <img
-            src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/gallery/sirkm12.jpg"
-            class="rounded-lg shadow-md"
-          />
-          <img
-            src="https://www.ftsm.ukm.my/sirkm2022/sirkm2022/images/gallery/sirkm11.jpg"
-            class="rounded-lg shadow-md"
-          />
-        </div>
-      </div>
+      
     </div>
   </div>
 </template>

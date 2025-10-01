@@ -108,9 +108,9 @@ const navItems = [
   { name: "HOME", path: "/", routeName: "home" },
   { name: "CALLS", path: "/calls", routeName: "calls" },
   {
-    name: "INVITED SPEAKER",
-    path: "/invited-speaker",
-    routeName: "invited-speaker",
+    name: "WORKSHOP",
+    path: "/workshop",
+    routeName: "workshop",
   },
   {
     name: "ABSTRACT SUBMISSION",

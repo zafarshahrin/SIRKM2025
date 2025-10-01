@@ -138,6 +138,10 @@
                 <p class="font-semibold">SEMINAR PRESENTATION (ONLINE):</p>
                 <p>25 NOVEMBER 2025</p>
               </div>
+                            <div class="px-4 py-3">
+                <p class="font-semibold">WORKSHOP:</p>
+                <p>25 NOVEMBER 2025</p>
+              </div>
             </div>
           </div>
         </div> 
