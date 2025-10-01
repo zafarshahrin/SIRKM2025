@@ -19,7 +19,7 @@
 
     <!-- Committee Section -->
     <div class="max-w-5xl mx-auto px-6 mt-12 space-y-10">
-      <h2 class="text-2xl font-bold text-[#1d3557] mb-2">ORGANIZING COMMITTEE</h2>
+      <h2 class="text-2xl font-bold text-[#1d3557] mb-2">ORGANIZING COMMITTEE </h2>
       <div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
 
       <!-- Two-line gap -->
