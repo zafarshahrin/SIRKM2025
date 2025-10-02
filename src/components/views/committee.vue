@@ -36,17 +36,13 @@
             </tr>
           </thead>
           <tbody>
-            <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Prof Dr Norfadhlina Mohd Sharef</td>
-              <td class="border px-4 py-2">Chief Patron</td>
-            </tr>
             <tr class="bg-purple-50">
-              <td class="border px-4 py-2">Prof Madya Dr Norjansalika</td>
-              <td class="border px-4 py-2">Program Advisor</td>
+              <td class="border px-4 py-2">PM  Ts. Dr. Norjansalika Janom</td>
+              <td class="border px-4 py-2">Program Advisor 1</td>
             </tr>
             <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Prof Madya Dr Nor Shahniza</td>
-              <td class="border px-4 py-2">Program Advisor</td>
+              <td class="border px-4 py-2">PM Dr Nor Shahniza binti Kamal Bashah</td>
+              <td class="border px-4 py-2">Program Advisor 2</td>
             </tr>
                         <tr class="bg-purple-50">
               <td class="border px-4 py-2">Ts Dr. Haslizatul Fairuz Mohamed Hanum</td>
@@ -58,7 +54,7 @@
             </tr>
 
                                     <tr class="bg-purple-50">
-              <td class="border px-4 py-2">Dr. Norizan (urusan postgrad) ?????</td>
+              <td class="border px-4 py-2">PM Dr Norizan Mat Diah</td>
               <td class="border px-4 py-2">Vice Chairperson 2</td>
             </tr>
                                                 <tr class="bg-purple-100">
