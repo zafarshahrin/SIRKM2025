@@ -38,61 +38,58 @@
           <tbody>
             <tr class="bg-purple-100">
               <td class="border px-4 py-2">Prof Dr Norfadhlina Mohd Sharef</td>
-              <td class="border px-4 py-2">Penaung</td>
+              <td class="border px-4 py-2">Chief Patron</td>
             </tr>
             <tr class="bg-purple-50">
               <td class="border px-4 py-2">Prof Madya Dr Norjansalika</td>
-              <td class="border px-4 py-2">Penasihat Program</td>
+              <td class="border px-4 py-2">Program Advisor</td>
             </tr>
             <tr class="bg-purple-100">
               <td class="border px-4 py-2">Prof Madya Dr Nor Shahniza</td>
-              <td class="border px-4 py-2">Penasihat Program</td>
+              <td class="border px-4 py-2">Program Advisor</td>
             </tr>
                         <tr class="bg-purple-50">
               <td class="border px-4 py-2">Ts Dr. Haslizatul Fairuz Mohamed Hanum</td>
-              <td class="border px-4 py-2">Pengerusi SIRKM</td>
+              <td class="border px-4 py-2">Chairperson of SIRKM</td>
             </tr>
                                     <tr class="bg-purple-100">
               <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
-              <td class="border px-4 py-2">Naib pengerusi 1</td>
+              <td class="border px-4 py-2">Vice Chairperson 1</td>
             </tr>
+
                                     <tr class="bg-purple-50">
-              <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
-              <td class="border px-4 py-2">Naib pengerusi 1</td>
-            </tr>
-                                    <tr class="bg-purple-100">
               <td class="border px-4 py-2">Dr. Norizan (urusan postgrad) ?????</td>
-              <td class="border px-4 py-2">Naib pengerusi 2</td>
+              <td class="border px-4 py-2">Vice Chairperson 2</td>
             </tr>
-                                                <tr class="bg-purple-50">
+                                                <tr class="bg-purple-100">
               <td class="border px-4 py-2">Dr. Nor Ashikin Mohamad Kamal</td>
-              <td class="border px-4 py-2">Setiausaha</td>
+              <td class="border px-4 py-2">Secretary</td>
             </tr>
-                                                            <tr class="bg-purple-100">
+                                                            <tr class="bg-purple-50">
               <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
-              <td class="border px-4 py-2">Bendahari (bendahari pecamp)</td>
+              <td class="border px-4 py-2">PECAMP Finance Committee (Treasurer)</td>
             </tr>
-                                                                        <tr class="bg-purple-50">
+                                                                        <tr class="bg-purple-100">
               <td class="border px-4 py-2">Dr. Shakirah Hashim</td>
-              <td class="border px-4 py-2">JK Website dan Teknikal</td>
+              <td class="border px-4 py-2">Website and Technical Committee</td>
             </tr>
-                                                                                    <tr class="bg-purple-100">
+                                                                                    <tr class="bg-purple-50">
               <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
-              <td class="border px-4 py-2">JK Website dan Teknikal</td>
+              <td class="border px-4 py-2">Website and Technical Committee</td>
             </tr>
-                                                                                                <tr class="bg-purple-50">
+                                                                                                <tr class="bg-purple-100">
               <td class="border px-4 py-2">Dr. Nursyahidah Alias</td>
-              <td class="border px-4 py-2">JK Publisiti dan Promosi</td>
+              <td class="border px-4 py-2">Publicity and Promotion Committee</td>
             </tr>
-                                                                                                            <tr class="bg-purple-100">
+                                                                                                            <tr class="bg-purple-50">
               <td class="border px-4 py-2">Ts Dr. Noor Latiffah Adam</td>
-              <td class="border px-4 py-2">JK Parallel Session dan Workshop</td>
+              <td class="border px-4 py-2">Parallel Session and Workshop Committee</td>
             </tr>
-                                                                                                                        <tr class="bg-purple-50">
+                                                                                                                        <tr class="bg-purple-100">
               <td class="border px-4 py-2">Dr. Azilawati Azizan</td>
-              <td class="border px-4 py-2">JK Paper and Publication</td>
+              <td class="border px-4 py-2">Paper and Publication Committee</td>
             </tr>
-                                                                                                                                    <tr class="bg-purple-100">
+                                                                                                                                    <tr class="bg-purple-50">
               <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
               <td class="border px-4 py-2">Event Manager </td>
             </tr>
