@@ -27,7 +27,7 @@
 
       <!-- Advisor -->
       <div>
-        <h2 class="text-xl font-semibold mb-4">Advisor</h2>
+        <h2 class="text-xl font-semibold mb-4"></h2>
         <table class="w-full border border-gray-300 text-sm">
           <thead class="bg-purple-600 text-white">
             <tr>
@@ -48,75 +48,65 @@
               <td class="border px-4 py-2">Prof Madya Dr Nor Shahniza</td>
               <td class="border px-4 py-2">Penasihat Program</td>
             </tr>
-          </tbody>
-        </table>
-      </div>
-
-      <!-- Repeat this structure for each section -->
-      <div class="h-8"></div>
-
-      <!-- General Chair -->
-      <div>
-        <h2 class="text-xl font-semibold mb-4">General Chair</h2>
-        <table class="w-full border border-gray-300 text-sm">
-          <thead class="bg-purple-600 text-white">
-            <tr>
-              <th class="border px-4 py-2 text-left">Name </th>
-              <th class="border px-4 py-2 text-left">Position</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Dr Haslizatul Fairuz</td>
+                        <tr class="bg-purple-50">
+              <td class="border px-4 py-2">Ts Dr. Haslizatul Fairuz Mohamed Hanum</td>
               <td class="border px-4 py-2">Pengerusi SIRKM</td>
             </tr>
-                        <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Dr Shaiful Bakhtiar (urusan pecamp)</td>
+                                    <tr class="bg-purple-100">
+              <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
+              <td class="border px-4 py-2">Naib pengerusi 1</td>
+            </tr>
+                                    <tr class="bg-purple-50">
+              <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
               <td class="border px-4 py-2">Naib pengerusi 1</td>
             </tr>
                                     <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Dr Norizan (urusan postgrad)</td>
+              <td class="border px-4 py-2">Dr. Norizan (urusan postgrad) ?????</td>
               <td class="border px-4 py-2">Naib pengerusi 2</td>
             </tr>
-                                                <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Dr Nor Ashikin</td>
+                                                <tr class="bg-purple-50">
+              <td class="border px-4 py-2">Dr. Nor Ashikin Mohamad Kamal</td>
               <td class="border px-4 py-2">Setiausaha</td>
             </tr>
                                                             <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Dr Shaiful Bakhtiar</td>
+              <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
               <td class="border px-4 py-2">Bendahari (bendahari pecamp)</td>
             </tr>
-                                                                        <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Dr Shakirah</td>
+                                                                        <tr class="bg-purple-50">
+              <td class="border px-4 py-2">Dr. Shakirah Hashim</td>
               <td class="border px-4 py-2">JK Website dan Teknikal</td>
             </tr>
                                                                                     <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Dr Shaiful</td>
+              <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
               <td class="border px-4 py-2">JK Website dan Teknikal</td>
             </tr>
-                                                                                                <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Dr Norsyahidah</td>
+                                                                                                <tr class="bg-purple-50">
+              <td class="border px-4 py-2">Dr. Nursyahidah Alias</td>
               <td class="border px-4 py-2">JK Publisiti dan Promosi</td>
             </tr>
                                                                                                             <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Dr Noor Latiffah</td>
+              <td class="border px-4 py-2">Ts Dr. Noor Latiffah Adam</td>
               <td class="border px-4 py-2">JK Parallel Session dan Workshop</td>
             </tr>
-                                                                                                                        <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Dr Azilawati Bt Azizan</td>
+                                                                                                                        <tr class="bg-purple-50">
+              <td class="border px-4 py-2">Dr. Azilawati Azizan</td>
               <td class="border px-4 py-2">JK Paper and Publication</td>
             </tr>
                                                                                                                                     <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Dr Shaiful</td>
+              <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
               <td class="border px-4 py-2">Event Manager </td>
             </tr>
           </tbody>
         </table>
       </div>
 
-      <!-- Example continues... -->
-      <!-- Just follow the same structure for General Co-Chair, Secretary, Finance, Track Chairs, Logistics, Publication, Publicity, Local Organising -->
-      <!-- Each <tr> will now have two <td>: one for the name, one with "TBA" -->
+
+      <div>
+        
+
+      </div>
+
+
 
     </div>
   </div>
