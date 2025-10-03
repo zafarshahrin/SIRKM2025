@@ -127,7 +127,7 @@
           <!-- Two-line gap -->
 <div class="h-4"></div>
 <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSeRqq_AgU9AAiFPlfnzi6r58T0hCtSohfp8nMN1ePZYWNLoCQ/viewform?usp=header"
+  href="#"
   target="_blank"
   class="inline-block bg-gradient-to-r from-purple-800 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:from-purple-900 hover:to-purple-600 text-sm font-semibold transition-all duration-300"
 >

@@ -112,22 +112,22 @@
             </thead>
             <tbody>
               <tr>
-                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">TBA</td>
                 <td class="border px-4 py-2">Workshop 1</td>
-                <td class="border px-4 py-2">Tba</td>
-                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">TBA</td>
+                <td class="border px-4 py-2">TBA</td>
               </tr>
               <tr class="bg-gray-50">
-                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">TBA</td>
                 <td class="border px-4 py-2">Workshop 2</td>
-                <td class="border px-4 py-2">Tba</td>
-                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">TBA</td>
+                <td class="border px-4 py-2">TBA</td>
               </tr>
               <tr>
-                <td class="border px-4 py-2">Tba</td>
-                <td class="border px-4 py-2">Tba</td>
-                <td class="border px-4 py-2">Tba</td>
-                <td class="border px-4 py-2">Tba</td>
+                <td class="border px-4 py-2">TBA</td>
+                <td class="border px-4 py-2">TBA</td>
+                <td class="border px-4 py-2">TBA</td>
+                <td class="border px-4 py-2">TBA</td>
               </tr>
             </tbody>
           </table>
