@@ -23,7 +23,7 @@
         <!-- Seminar Poster -->
         <div>
         <a
-          href="/seminarposter.jpg"
+          href="/seminarposter.pdf"
           download
           class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
         >
@@ -33,7 +33,7 @@
           <!-- Two-line gap -->
           <div class="h-8"></div>
           <img
-            src="/seminarposter.jpg"
+            src="/seminarposter1.jpg"
             alt="Seminar Poster"
             class="rounded-lg shadow-md mx-auto"
           />
@@ -42,7 +42,7 @@
         <!-- Virtual Background -->
         <div>
         <a
-          href="/virtualbackground.jpg"
+          href="/virtualbackground1.pdf"
           download
           class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
         >
@@ -52,7 +52,7 @@
           <!-- Two-line gap -->
           <div class="h-8"></div>
           <img
-            src="/virtualbackground.jpg"
+            src="/virtualbackground1.jpg"
             alt="Virtual Background"
             class="rounded-lg shadow-md mx-auto"
           />

@@ -191,7 +191,7 @@
 </template>
 
 <script setup>
-import heroImg from "@/assets/homesliderpage10.jpg";
+import heroImg from "@/assets/homesliderpage13.png";
 import UiIcon from "@/components/uicomponents/UiIcon.vue";
 
 </script>
