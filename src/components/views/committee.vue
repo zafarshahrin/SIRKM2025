@@ -41,15 +41,15 @@
               <td class="border px-4 py-2">Program Advisor 1</td>
             </tr>
             <tr class="bg-purple-100">
-              <td class="border px-4 py-2">PM Dr Nor Shahniza binti Kamal Bashah</td>
+              <td class="border px-4 py-2">PM Dr. Nor Shahniza binti Kamal Bashah</td>
               <td class="border px-4 py-2">Program Advisor 2</td>
             </tr>
                         <tr class="bg-purple-50">
-              <td class="border px-4 py-2">Ts Dr. Haslizatul Fairuz Mohamed Hanum</td>
+              <td class="border px-4 py-2">Ts. Dr. Haslizatul Fairuz Mohamed Hanum</td>
               <td class="border px-4 py-2">Chairperson of SIRKM</td>
             </tr>
                                     <tr class="bg-purple-100">
-              <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
+              <td class="border px-4 py-2">Ts. Dr. Shaiful Bakhtiar bin Rodzman</td>
               <td class="border px-4 py-2">Vice Chairperson 1</td>
             </tr>
 
@@ -62,7 +62,7 @@
               <td class="border px-4 py-2">Secretary</td>
             </tr>
                                                             <tr class="bg-purple-50">
-              <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
+              <td class="border px-4 py-2">Ts. Dr. Shaiful Bakhtiar bin Rodzman</td>
               <td class="border px-4 py-2">PECAMP Finance Committee (Treasurer)</td>
             </tr>
                                                                         <tr class="bg-purple-100">
@@ -70,7 +70,7 @@
               <td class="border px-4 py-2">Website and Technical Committee</td>
             </tr>
                                                                                     <tr class="bg-purple-50">
-              <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
+              <td class="border px-4 py-2">Ts. Dr. Shaiful Bakhtiar bin Rodzman</td>
               <td class="border px-4 py-2">Website and Technical Committee</td>
             </tr>
                                                                                                 <tr class="bg-purple-100">
@@ -78,7 +78,7 @@
               <td class="border px-4 py-2">Publicity and Promotion Committee</td>
             </tr>
                                                                                                             <tr class="bg-purple-50">
-              <td class="border px-4 py-2">Ts Dr. Noor Latiffah Adam</td>
+              <td class="border px-4 py-2">Ts. Dr. Noor Latiffah Adam</td>
               <td class="border px-4 py-2">Parallel Session and Workshop Committee</td>
             </tr>
                                                                                                                         <tr class="bg-purple-100">
@@ -86,7 +86,7 @@
               <td class="border px-4 py-2">Paper and Publication Committee</td>
             </tr>
                                                                                                                                     <tr class="bg-purple-50">
-              <td class="border px-4 py-2">Ts Dr. Shaiful Bakhtiar bin Rodzman</td>
+              <td class="border px-4 py-2">Ts. Dr. Shaiful Bakhtiar bin Rodzman</td>
               <td class="border px-4 py-2">Event Manager </td>
             </tr>
           </tbody>
