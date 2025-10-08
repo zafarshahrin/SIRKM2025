@@ -54,7 +54,7 @@
             </tr>
 
                                     <tr class="bg-purple-50">
-              <td class="border px-4 py-2">PM Dr Norizan Mat Diah</td>
+              <td class="border px-4 py-2">PM Dr. Norizan Mat Diah</td>
               <td class="border px-4 py-2">Vice Chairperson 2</td>
             </tr>
                                                 <tr class="bg-purple-100">
