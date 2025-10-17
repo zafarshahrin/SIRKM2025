@@ -108,7 +108,7 @@ const menuOpen = ref(false);
 // ✅ Navigation items
 const navItems = [
   { name: "HOME", path: "/", routeName: "home" },
-  { name: "CALLS", path: "/calls", routeName: "calls" },
+  { name: "CALL FOR ABSTRACT", path: "/calls", routeName: "calls" },
   { name: "WORKSHOP", path: "/workshop", routeName: "workshop" },
   { name: "ABSTRACT SUBMISSION", path: "/abstract-submission", routeName: "abstract-submission" },
   { name: "PROGRAMME", path: "/programme", routeName: "programme" },
