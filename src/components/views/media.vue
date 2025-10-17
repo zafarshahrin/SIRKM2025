@@ -23,7 +23,7 @@
         <!-- Seminar Poster -->
         <div>
         <a
-           href="/assets/seminarposter4.pdf"
+           href="/assets/SeminarPosterSIRKM2025.pdf"
             download
           class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
         >
@@ -33,7 +33,7 @@
           <!-- Two-line gap -->
           <div class="h-8"></div>
           <img
-            src="/assets/seminarposter4.jpg"
+            src="/assets/SeminarPosterSIRKM2025.jpg"
             alt="Seminar Poster"
             class="rounded-lg shadow-md mx-auto"
           />

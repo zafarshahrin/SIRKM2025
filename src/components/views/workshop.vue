@@ -36,5 +36,5 @@
 </template>
 
 <script setup>
-import poster from "@/assets/workshopPoster1.png";
+import poster from "@/assets/WorkshopPosterSIRKM2025.png";
 </script>
