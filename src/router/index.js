@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from "vue-router";
+import { createRouter, createWebHashHistory } from "vue-router";
 
 import Layout from "../components/layout.vue";
 import Home from "../components/views/home.vue";
@@ -18,16 +18,8 @@ const routes = [
       { path: "", redirect: "/home" }, // default redirect
       { path: "home", name: "Home", component: Home },
       { path: "calls", name: "Calls", component: Calls },
-      {
-        path: "workshop",
-        name: "Workshop",
-        component: Workshop,
-      },
-      {
-        path: "abstract-submission",
-        name: "AbstractSubmission",
-        component: AbstractSubmission,
-      },
+      { path: "workshop", name: "Workshop", component: Workshop },
+      { path: "abstract-submission", name: "AbstractSubmission", component: AbstractSubmission },
       { path: "programme", name: "Programme", component: Programme },
       { path: "registration", name: "Registration", component: Registration },
       { path: "committee", name: "Committee", component: Committee },
@@ -37,7 +29,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory('/SIRKM2025/'), // 👈 important
   routes,
 });
 

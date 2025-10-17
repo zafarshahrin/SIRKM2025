@@ -147,7 +147,7 @@
       </tr>
       <tr>
         <td class="font-semibold pr-2 py-2 px-4">Presenter or Participant:</td>
-        <td class="text-right py-2 px-4">RM125 / USD30</td>
+        <td class="text-right py-2 px-4">RM125 / USD30 </td>
       </tr>
       <tr>
         <td colspan="2" class="py-2 px-4 text-sm">

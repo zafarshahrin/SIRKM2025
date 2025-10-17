@@ -23,8 +23,8 @@
         <!-- Seminar Poster -->
         <div>
         <a
-          href="/seminarposter2.pdf"
-          download
+           href="/assets/seminarposter2.pdf"
+            download
           class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
         >
           <UiIcon :icon="['fas', 'cloud-arrow-down']" />
@@ -33,7 +33,7 @@
           <!-- Two-line gap -->
           <div class="h-8"></div>
           <img
-            src="/seminarposter2.jpg"
+            src="/assets/seminarposter2.jpg"
             alt="Seminar Poster"
             class="rounded-lg shadow-md mx-auto"
           />
@@ -42,8 +42,8 @@
         <!-- Virtual Background -->
         <div>
         <a
-          href="/virtualbackground1.pdf"
-          download
+          href="/assets/virtualbackground1.pdf"
+            download
           class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
         >
           <UiIcon :icon="['fas', 'cloud-arrow-down']" />
@@ -52,7 +52,7 @@
           <!-- Two-line gap -->
           <div class="h-8"></div>
           <img
-            src="/virtualbackground1.jpg"
+            src="/assets/virtualbackground1.jpg"
             alt="Virtual Background"
             class="rounded-lg shadow-md mx-auto"
           />

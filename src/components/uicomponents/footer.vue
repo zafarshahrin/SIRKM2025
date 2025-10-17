@@ -20,7 +20,11 @@
         <!-- Logo -->
         <div class="shrink-0">
           <router-link to="/">
-            <img :src="logo" alt="SIRKM Logo" class="h-10 md:h-12 object-contain mx-auto md:mx-0" />
+            <img
+              :src="logo"
+              alt="SIRKM Logo"
+              class="h-10 md:h-12 object-contain mx-auto md:mx-0"
+            />
           </router-link>
         </div>
       </div>
@@ -29,32 +33,33 @@
 
       <!-- Address -->
       <div class="text-sm text-center md:text-left">
-        Faculty of Computer and Mathematical Sciences, Universiti Teknologi MARA, 40450 Shah Alam, Selangor, Malaysia
+        Faculty of Computer and Mathematical Sciences, Universiti Teknologi MARA,
+        40450 Shah Alam, Selangor, Malaysia
       </div>
 
       <!-- Contact -->
       <div class="text-sm text-center md:text-left">
         Email:
-        <a href="mailto:sirkm2022@ukm.edu.my" class="hover:text-gray-400">sirkm2025@gmail.com</a>
+        <a href="mailto:sirkm2025@gmail.com" class="hover:text-gray-400">
+          sirkm2025@gmail.com
+        </a>
         &nbsp;|&nbsp; Attention to: Dr Haslizatul Fairuz binti Mohamed Hanum
       </div>
 
       <!-- Bottom section -->
       <div class="flex flex-col md:flex-row items-center justify-between gap-4">
         <!-- Copyright -->
-        <div class="text-sm text-center md:text-left">&copy; 2025 SIRKM2025</div>
-
-        <!-- Social media -->
-        <div class="flex justify-center md:justify-end gap-4">
-          <a href="#" class="hover:text-gray-400">Facebook</a>
-          <a href="#" class="hover:text-gray-400">Instagram</a>
+        <div class="text-sm text-center md:text-left">
+          &copy; 2025 SIRKM2025
         </div>
+
+
       </div>
     </div>
   </footer>
 </template>
 
 <script setup>
-// Import local image from assets
-import logo from "@/assets/footernakal2.png";
+// ✅ Use BASE_URL so it works in localhost and deployed site (/SIRKM2025/)
+const logo = `${import.meta.env.BASE_URL}assets/footernakal2.png`;
 </script>

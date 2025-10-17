@@ -97,38 +97,32 @@
 <script setup>
 import { ref, computed } from "vue";
 import { useRoute, useRouter } from "vue-router";
-import logo from "@/assets/logo3.png";
+
+// ✅ Use BASE_URL so it works on localhost and after deploy (/SIRKM2025/)
+const logo = `${import.meta.env.BASE_URL}assets/logo3.png`;
 
 const route = useRoute();
 const router = useRouter();
 const menuOpen = ref(false);
 
-// Define nav items
+// ✅ Navigation items
 const navItems = [
   { name: "HOME", path: "/", routeName: "home" },
   { name: "CALLS", path: "/calls", routeName: "calls" },
-  {
-    name: "WORKSHOP",
-    path: "/workshop",
-    routeName: "workshop",
-  },
-  {
-    name: "ABSTRACT SUBMISSION",
-    path: "/abstract-submission",
-    routeName: "abstract-submission",
-  },
+  { name: "WORKSHOP", path: "/workshop", routeName: "workshop" },
+  { name: "ABSTRACT SUBMISSION", path: "/abstract-submission", routeName: "abstract-submission" },
   { name: "PROGRAMME", path: "/programme", routeName: "programme" },
   { name: "REGISTRATION", path: "/registration", routeName: "registration" },
   { name: "COMMITTEE", path: "/committee", routeName: "committee" },
   { name: "MEDIA", path: "/media", routeName: "media" },
 ];
 
-// Navigate manually
+// ✅ Navigate to page
 const goTo = (path) => {
   router.push(path);
 };
 
-// Check active state
+// ✅ Highlight active route
 const isActive = (item) =>
   computed(() => {
     const routeName = route.name?.toUpperCase().replace(/-/g, "");

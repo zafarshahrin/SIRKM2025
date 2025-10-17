@@ -1,17 +1,15 @@
 <template>
   <div class="home-content w-full pb-[120px]">
     <!-- Hero Section -->
-    <section
-      :style="{ backgroundImage: `url(${heroImg})` }"
-      class="relative bg-contain sm:bg-cover bg-center flex items-center justify-center 
-       h-[250px] sm:h-[350px] md:h-[550px] bg-no-repeat"
-    >
-      <!-- Overlay -->
-      <div class="absolute inset-0 bg-white/5"></div>
+<section
+  :style="{ backgroundImage: `url(/assets/homesliderpage13.png)` }"
+  class="relative bg-contain sm:bg-cover bg-center flex items-center justify-center 
+  h-[250px] sm:h-[350px] md:h-[550px] bg-no-repeat"
+>
+  <div class="absolute inset-0 bg-white/5"></div>
+  <div class="relative z-10 text-center text-white"></div>
+</section>
 
-      <!-- Optional centered hero content -->
-      <div class="relative z-10 text-center text-white"></div>
-    </section>
 
     <!-- Download Buttons -->
     <section class="downloads bg-white py-8 px-4 text-center">
@@ -20,7 +18,7 @@
         <!-- Button 1 -->
         <a
           href="#"
-          download
+          
           class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
         >
           <UiIcon :icon="['fas', 'cloud-arrow-down']" />
@@ -30,7 +28,7 @@
         <!-- Button 2 -->
         <a
           href="#"
-          download
+          
           class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
         >
           <UiIcon :icon="['fas', 'cloud-arrow-down']" />
@@ -40,7 +38,7 @@
         <!-- Button 3 -->
         <a
           href="#"
-          download
+         
           class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
         >
           <UiIcon :icon="['fas', 'cloud-arrow-down']" />
@@ -50,7 +48,7 @@
         <!-- Button 4 -->
         <a
           href="#"
-          download
+          
           class="bg-[#1d3557] text-white px-5 py-3 rounded-md text-sm font-semibold inline-flex items-center gap-2 hover:bg-[#f39c12] transition"
         >
           <UiIcon :icon="['fas', 'cloud-arrow-down']" />
@@ -71,20 +69,20 @@
 
           <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
             The Seminar on Information Retrieval and Knowledge Management 2025
-            (SIRKM'25) welcome all researchers to share their ongoing research
+            (SIRKM'25) welcomes all researchers to share their ongoing research
             and provide an opportunity to share their work. SIRKM'25 aims to
             encourage knowledge sharing by providing a platform for interactive
             discussions with experts in information retrieval, knowledge
             management, and its related fields. It also hopes to encourage
             community-building by connecting early and advanced researchers.
-            SIRKM'25 is jointly organised by the Universiti Teknologi MARA
-            (UiTM) and the Society of Information Retrieval and Knowledge
-            Management, Malaysia (PECAMP). Area of interest: SIRKM’25 invite
-            both local and international researchers to submit extended
-            abstracts of current research being undertaken on the following
-            topics (but not limited to):
           </p>
-
+          <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
+            SIRKM'25 is jointly organised by the Universiti Teknologi MARA (UiTM) 
+            and the Society of Information Retrieval and Knowledge Management, 
+            Malaysia (PECAMP). Area of interest: SIRKM’25 invites both local and 
+            international researchers to submit extended abstracts of current 
+            research being undertaken on the following topics (but not limited to):
+          </p>
           <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
             1. Information Retrieval [IR]: Information Seeking and Behaviour,
             Search interfaces, Search Engine, Semantic Technology, IR
@@ -106,7 +104,7 @@
           </p>
           <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
             5. Others: [O] Cyber Security, Emerging ICT Application, Mobile
-            Technology Applications, Internet of Things, Industrial Computing. 
+            Technology Applications, Internet of Things, Industrial Computing.
           </p>
         </div>
 
@@ -138,14 +136,14 @@
                 <p class="font-semibold">SEMINAR PRESENTATION (ONLINE):</p>
                 <p>25 NOVEMBER 2025</p>
               </div>
-                            <div class="px-4 py-3">
+              <div class="px-4 py-3">
                 <p class="font-semibold">ONLINE WORKSHOP:</p>
                 <p>25 NOVEMBER 2025</p>
               </div>
             </div>
           </div>
-        </div> 
-      </div> 
+        </div>
+      </div>
     </section>
 
     <!-- Topics -->
@@ -158,7 +156,7 @@
         <div class="h-8"></div>
 
         <p class="text-sm text-gray-700 leading-relaxed mb-4 text-justify">
-          SIRKM’25 invite both local and international researchers to submit
+          SIRKM’25 invites both local and international researchers to submit
           extended abstracts of current research being undertaken on the
           following topics (but not limited to):
         </p>
@@ -191,7 +189,5 @@
 </template>
 
 <script setup>
-import heroImg from "@/assets/homesliderpage13.png";
 import UiIcon from "@/components/uicomponents/UiIcon.vue";
-
 </script>
