@@ -11,11 +11,11 @@
 </section>
 
 
-    <!-- Download Buttons -->
+    <!-- Download Buttons 
     <section class="downloads bg-white py-8 px-4 text-center">
       <div class="flex justify-center flex-wrap gap-4">
 
-        <!-- Button 1 -->
+         Button 1 
         <a
           href="#"
           
@@ -25,7 +25,7 @@
           <span>GENERAL PROGRAMME SCHEDULE</span>
         </a>
 
-        <!-- Button 2 -->
+         Button 2 
         <a
           href="#"
           
@@ -35,7 +35,7 @@
           <span>PARALLEL SESSION 1 &amp; 2 SCHEDULE</span>
         </a>
 
-        <!-- Button 3 -->
+         Button 3 
         <a
           href="#"
          
@@ -45,7 +45,7 @@
           <span>PARALLEL SESSION 3 SCHEDULE</span>
         </a>
 
-        <!-- Button 4 -->
+         Button 4
         <a
           href="#"
           
@@ -57,6 +57,7 @@
 
       </div>
     </section>
+-->
 
     <!-- Introduction + Important Dates -->
     <section class="introduction py-9 px-4">

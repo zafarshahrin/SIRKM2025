@@ -53,7 +53,18 @@
           &copy; 2025 SIRKM2025
         </div>
 
-
+        <!-- Social Media -->
+        <div class="flex justify-center md:justify-end gap-4">
+          <a
+            href="https://www.facebook.com/Pecamp.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="hover:text-blue-500 flex items-center gap-2"
+          >
+            <i class="fab fa-facebook text-xl"></i>
+            <span class="text-sm">Follow us on Facebook</span>
+          </a>
+        </div>
       </div>
     </div>
   </footer>
