@@ -1,4 +1,4 @@
-import { createRouter, createWebHashHistory } from "vue-router";
+import { createRouter, createWebHistory } from "vue-router"; // ✅ changed from createWebHashHistory
 
 import Layout from "../components/layout.vue";
 import Home from "../components/views/home.vue";
@@ -29,7 +29,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHashHistory('/SIRKM2025/'), // 👈 important
+  history: createWebHistory(), // ✅ changed to createWebHistory (no more #)
   routes,
 });
 
