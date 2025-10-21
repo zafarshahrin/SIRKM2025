@@ -121,7 +121,7 @@
             <p class="text-sm text-gray-700 leading-relaxed">
               5. The template for the abstract can be downloaded
               <a
-                href="/SIRKM25 ExtAbstract Template-v2.docx"
+                href="/SIRKM25 ExtAbstract Template-v2 (new).docx"
                 class="text-yellow-500 font-semibold hover:underline"
                 target="_blank"
                 >HERE</a
