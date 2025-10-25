@@ -22,7 +22,7 @@
     <!-- ✅ Navigation & logo row -->
     <div class="w-full flex justify-center">
       <div
-        class="max-w-6xl mx-auto w-full px-4 sm:px-6 md:px-8 flex items-center justify-between gap-10 py-4"
+        class="max-w-7xl mx-auto w-full px-4 sm:px-6 md:px-8 flex items-center justify-between gap-4 py-4"
       >
         <!-- Logo -->
         <div class="logo shrink-0">
@@ -111,6 +111,7 @@ const navItems = [
   { name: "CALL FOR ABSTRACT", path: "/calls", routeName: "calls" },
   { name: "WORKSHOP", path: "/workshop", routeName: "workshop" },
   { name: "ABSTRACT SUBMISSION", path: "/abstract-submission", routeName: "abstract-submission" },
+  { name: "PUBLICATION", path: "/publication", routeName: "publication" },
   { name: "PROGRAMME", path: "/programme", routeName: "programme" },
   { name: "REGISTRATION", path: "/registration", routeName: "registration" },
   { name: "COMMITTEE", path: "/committee", routeName: "committee" },

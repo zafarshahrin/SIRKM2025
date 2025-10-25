@@ -11,6 +11,7 @@
           <router-link to="/calls" class="px-1 py-1 hover:text-red-800">Calls</router-link>
           <router-link to="/workshop" class="px-1 py-1 hover:text-red-800">Workshop</router-link>
           <router-link to="/abstract-submission" class="px-1 py-1 hover:text-red-800">Abstract Submission</router-link>
+          <router-link to="/publication" class="px-1 py-1 hover:text-red-800">Publication</router-link>
           <router-link to="/programme" class="px-1 py-1 hover:text-red-800">Programme</router-link>
           <router-link to="/registration" class="px-1 py-1 hover:text-red-800">Registration</router-link>
           <router-link to="/committee" class="px-1 py-1 hover:text-red-800">Committee</router-link>
