@@ -2,7 +2,7 @@
   <div class="home-content w-full pb-[120px]">
     <!-- Hero Section -->
 <section
-  :style="{ backgroundImage: `url(/assets/homesliderpage13.png)` }"
+  :style="{ backgroundImage: `url(/assets/WebBannerupdate.jpg)` }"
   class="relative bg-contain sm:bg-cover bg-center flex items-center justify-center 
   h-[250px] sm:h-[350px] md:h-[550px] bg-no-repeat"
 >

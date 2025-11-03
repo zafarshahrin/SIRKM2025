@@ -96,8 +96,24 @@
                     </td>
                   </tr>
 
-                  <tr class="hover:bg-gray-50">
+                                    <tr class="hover:bg-gray-50">
                     <td class="border px-4 py-2 text-center">3</td>
+                    <td class="border px-4 py-2">
+                      Malaysian Journal of Computing (MJoC)
+                    </td>
+                    <td class="border px-4 py-2">
+                      <a
+                        href="https://mjoc.uitm.edu.my/main/"
+                        target="_blank"
+                        class="text-purple-600 hover:underline"
+                      >
+                        https://mjoc.uitm.edu.my/main/
+                      </a>
+                    </td>
+                  </tr>
+
+                  <tr class="hover:bg-gray-50">
+                    <td class="border px-4 py-2 text-center">4</td>
                     <td class="border px-4 py-2">
                       Journal of Information Retrieval and Knowledge Management
                       (JIRKM)
