@@ -103,7 +103,7 @@
   <div class="px-4 py-3">
       <p class="font-semibold">EXTENDED ABSTRACT DEADLINE:</p>
       <p>
-        3 NOVEMBER 2025
+        9 NOVEMBER 2025
       </p>
     </div>
     <div class="px-4 py-3">
