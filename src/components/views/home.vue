@@ -2,7 +2,7 @@
   <div class="home-content w-full pb-[120px]">
     <!-- Hero Section -->
 <section
-  :style="{ backgroundImage: `url(/assets/WebBannerupdate.jpg)` }"
+  :style="{ backgroundImage: `url(/assets/WebBannerupdate2.jpg)` }"
   class="relative bg-contain sm:bg-cover bg-center flex items-center justify-center 
   h-[250px] sm:h-[350px] md:h-[550px] bg-no-repeat"
 >
@@ -117,10 +117,15 @@
             </h2>
 
             <div class="bg-[#4B0082] divide-y divide-white/30 text-sm">
-              <div class="px-4 py-3">
-                <p class="font-semibold">EXTENDED ABSTRACT DEADLINE:</p>
-                <p>9 NOVEMBER 2025</p>
-              </div>
+<div class="px-4 py-3">
+  <p class="font-semibold">EXTENDED ABSTRACT DEADLINE:</p>
+  <p class="text-sm">
+    <span class="line-through text-gray-400 mr-2">9 NOVEMBER 2025</span>
+    <span class="text-yellow-300 font-bold animate-pulse">→ 15 NOVEMBER 2025</span>
+  </p>
+</div>
+
+
               <div class="px-4 py-3">
                 <p class="font-semibold">NOTIFICATION OF ACCEPTANCE:</p>
                 <p>10 NOVEMBER 2025</p>

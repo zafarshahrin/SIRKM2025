@@ -160,9 +160,13 @@
 
             <div class="bg-[#4B0082] divide-y divide-white/30 text-sm">
               <div class="px-4 py-3">
-                <p class="font-semibold">EXTENDED ABSTRACT DEADLINE:</p>
-                <p>9 NOVEMBER 2025</p>
-              </div>
+  <p class="font-semibold">EXTENDED ABSTRACT DEADLINE:</p>
+  <p class="text-sm">
+    <span class="line-through text-gray-400 mr-2">9 NOVEMBER 2025</span>
+    <span class="text-yellow-300 font-bold animate-pulse">→ 15 NOVEMBER 2025</span>
+  </p>
+</div>
+
               <div class="px-4 py-3">
                 <p class="font-semibold">NOTIFICATION OF ACCEPTANCE:</p>
                 <p>10 NOVEMBER 2025</p>
