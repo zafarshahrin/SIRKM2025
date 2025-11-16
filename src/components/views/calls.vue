@@ -112,10 +112,13 @@
       <p class="font-semibold">NOTIFICATION OF ACCEPTANCE:</p>
       <p>10 NOVEMBER 2025</p>
     </div>
-    <div class="px-4 py-3">
-      <p class="font-semibold">CAMERA READY SUBMISSION:</p>
-      <p>24 NOVEMBER 2025</p>
-    </div>
+              <div class="px-4 py-3">
+                <p class="font-semibold">CAMERA READY SUBMISSION:</p>
+                <p class="text-sm">
+                <span class="line-through text-grey-400 mr-2">24 NOVEMBER 2025</span>
+                <span class="text-yellow-300 font bold animate-pulse">→ 9 DECEMBER 2025</span>
+                </p>
+              </div>
     <div class="px-4 py-3">
       <p class="font-semibold">REGISTRATION &amp; PAYMENT DEADLINE:</p>
       <p>TBA</p>
