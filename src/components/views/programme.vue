@@ -14,120 +14,153 @@
       </div>
     </section>
 
-    <!-- Two-line gap -->
     <div class="h-8"></div>
 
     <!-- Tentative Programme -->
     <section class="max-w-6xl mx-auto px-6 mt-16 space-y-12">
-      <h2 class="text-2xl font-bold text-[#1d3557] mb-2">TENTATIVE</h2>
-      <div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
+     
+            <h2 class="text-2xl font-bold text-[#1d3557] mb-2">
+              TENTATIVE
+            </h2>
+            <div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
 
-      <!-- Two-line gap -->
       <div class="h-8"></div>
 
-      <!-- Morning Session -->
-      <div>
-        <h3 class="text-2xl font-semibold mb-4">Morning Session</h3>
+      <!-- ⚡ Beautiful Event Info Section -->
+      <div
+        class="bg-gradient-to-r from-purple-600 to-indigo-600 text-white rounded-xl shadow-lg p-6 flex flex-col md:flex-row items-center justify-between gap-6"
+      >
+        <div class="flex items-center gap-4">
+          <div class="bg-white/20 p-3 rounded-full">
+            <span class="text-2xl">📅</span>
+          </div>
+          <div>
+            <p class="text-sm opacity-80">Date</p>
+            <p class="text-lg font-semibold">25 November 2025</p>
+          </div>
+        </div>
 
-        <p class="text-sm text-gray-700 leading-relaxed mb-4 text-center">
-          Microsoft Teams Link : TBA
-        </p>
+        <div class="flex items-center gap-4">
+          <div class="bg-white/20 p-3 rounded-full">
+            <span class="text-2xl">📆</span>
+          </div>
+          <div>
+            <p class="text-sm opacity-80">Day</p>
+            <p class="text-lg font-semibold">Tuesday</p>
+          </div>
+        </div>
 
-        <div class="overflow-x-auto mb-6">
-          <table class="w-full border border-gray-300 text-sm">
-            <thead>
-              <tr class="bg-purple-500 text-white text-left">
-                <th class="border px-4 py-2">Time</th>
-                <th class="border px-4 py-2">Activity</th>
-                <th class="border px-4 py-2">Title</th>
-                <th class="border px-4 py-2">Notes</th>
-              </tr>
-            </thead>
-            <tbody>
-<tr>
-  <!-- merge dua baris time -->
-  <td class="border px-4 py-2" rowspan="2">09:00 am – 11:00 am</td>
-  <td class="border px-4 py-2">Parallel Session 1</td>
-  <td class="border px-4 py-2">Breakout Room 1 - Gemini</td>
-  <td class="border px-4 py-2">Information Retrieval [IR]</td>
-</tr>
-<tr>
-  <!-- time column dah merge, jadi kosongkan -->
-  <td class="border px-4 py-2">Parallel Session 2</td>
-  <td class="border px-4 py-2">Breakout Room 2 - Perplexity</td>
-  <td class="border px-4 py-2">Knowledge Management [KM]</td>
-</tr>
-
-              <tr class="bg-gray-50">
-                <td class="border px-4 py-2">11:00 am – 11:15 am</td>
-                
-                <!-- merge Title + Notes -->
-                <td class="border px-4 py-2 text-center" colspan="3">Break</td>
-              </tr>
-              <tr>
-                <td class="border px-4 py-2" rowspan="2">11:15 am – 01:00 pm</td>
-                <td class="border px-4 py-2">Parallel Session 3</td>
-                <td class="border px-4 py-2">Breakout Room 1 – Gemini</td>
-                <td class="border px-4 py-2">
-                  Artificial Intelligence & Data Science [DS]
-                </td>
-              </tr>
-              <tr>
-                
-                <td class="border px-4 py-2">Parallel Session 4</td>
-                <td class="border px-4 py-2">Breakout Room 2 – Perplexity</td>
-                <td class="border px-4 py-2">
-                  Information Visualisation [IV] & Others [O]
-                </td>
-              </tr>
-              <tr class="bg-gray-50">
-                <td class="border px-4 py-2">01:00 pm – 02:00 pm</td>
-                
-                <!-- merge Title + Notes -->
-                <td class="border px-4 py-2 text-center" colspan="3">Lunch Break</td>
-              </tr>
-            </tbody>
-          </table>
+        <div class="flex items-center gap-4">
+          <div class="bg-white/20 p-3 rounded-full">
+            <span class="text-2xl">💻</span>
+          </div>
+          <div>
+            <p class="text-sm opacity-80">Platform</p>
+            <p class="text-lg font-semibold">Online Google Meet</p>
+          </div>
         </div>
       </div>
 
       <!-- Two-line gap -->
       <div class="h-8"></div>
 
-      <!-- Afternoon Session -->
+      <!-- Programme Table -->
       <div>
-        <h3 class="text-2xl font-semibold mb-4">Afternoon Session</h3>
-        <p class="text-sm text-gray-700 leading-relaxed mb-4 text-center">
-          Microsoft Teams Link : TBA
-        </p>
         <div class="overflow-x-auto mb-6">
           <table class="w-full border border-gray-300 text-sm">
             <thead>
               <tr class="bg-purple-500 text-white text-left">
                 <th class="border px-4 py-2">Time</th>
-                <th class="border px-4 py-2">Activity</th>
-                <th class="border px-4 py-2">Title</th>
-                <th class="border px-4 py-2">Notes</th>
+                <th class="border px-4 py-2">Details</th>
+                <th class="border px-4 py-2">Link</th>
               </tr>
             </thead>
+
             <tbody>
-              <tr>
-                <td class="border px-4 py-2">TBA</td>
-                <td class="border px-4 py-2">Workshop 1</td>
-                <td class="border px-4 py-2">TBA</td>
-                <td class="border px-4 py-2">TBA</td>
+              <!-- 8.30 AM -->
+              <tr class="bg-gray-100">
+                <td class="border px-4 py-2">8.30 am</td>
+                <td class="text-center border-l px-4 py-2">Setup & Arrival</td>
+                <td class="border-r px-4 py-2 text-center"></td>
               </tr>
-              <tr class="bg-gray-50">
-                <td class="border px-4 py-2">TBA</td>
-                <td class="border px-4 py-2">Workshop 2</td>
-                <td class="border px-4 py-2">TBA</td>
-                <td class="border px-4 py-2">TBA</td>
-              </tr>
+
+              <!-- 9.00 AM -->
               <tr>
-                <td class="border px-4 py-2">TBA</td>
-                <td class="border px-4 py-2">TBA</td>
-                <td class="border px-4 py-2">TBA</td>
-                <td class="border px-4 py-2">TBA</td>
+                <td class="border px-4 py-2">9.00 am</td>
+                <td class="border px-4 py-2">
+                  <strong>Presentation Session 1</strong><br />
+                  <strong>Tracks:</strong><br />
+                  Information Retrieval [IR]<br />
+                  Information Visualisation [IV]<br />
+                  Artificial Intelligence [AI] & Data Science [DS]
+                </td>
+                <td class="border px-4 py-2">
+                  <a
+                    href="https://tinyurl.com/Session1-SIRKM25"
+                    target="_blank"
+                    class="text-blue-600 underline"
+                  >
+                    https://tinyurl.com/Session1-SIRKM25
+                  </a>
+                </td>
+              </tr>
+
+              <!-- 11.30 AM -->
+              <tr>
+                <td class="border px-4 py-2">11.30 am</td>
+                <td class="border px-4 py-2">
+                  <strong>Presentation Session 2</strong><br />
+                  <strong>Tracks:</strong><br />
+                  Knowledge Management [KM]<br />
+                  Artificial Intelligence [AI] & Data Science [DS]
+                </td>
+                <td class="border px-4 py-2">
+                  <a
+                    href="https://tinyurl.com/Session2-SIRKM25"
+                    target="_blank"
+                    class="text-blue-600 underline"
+                  >
+                    https://tinyurl.com/Session2-SIRKM25
+                  </a>
+                </td>
+              </tr>
+
+              <!-- BREAK -->
+              <tr class="bg-gray-100">
+                <td class="border px-4 py-2">1.30 pm</td>
+                <td class="text-center border-l px-4 py-2">Break</td>
+                <td class="border-r px-4 py-2 text-center"></td>
+              </tr>
+
+              <!-- 2.00 PM -->
+              <tr>
+                <td class="border px-4 py-2">2.00 pm</td>
+                <td class="border px-4 py-2">
+                  <strong>Closing Ceremony</strong><br /><br />
+                  <strong>Closing speech by:</strong><br />
+                  • FSKM Dean (PM Dr Norjansalika Janom)<br />
+                  • President of PECAMP (Prof. Ts. Dr Nurfadhlina Mohd Sharef)
+                </td>
+                <td class="border px-4 py-2">
+                  <a
+                    href="https://tinyurl.com/ClosingSIRKM25"
+                    target="_blank"
+                    class="text-blue-600 underline"
+                  >
+                    https://tinyurl.com/ClosingSIRKM25
+                  </a>
+                </td>
+              </tr>
+
+              <!-- WORKSHOP -->
+              <tr>
+                <td class="border px-4 py-2">2.30 pm – 4.00 pm</td>
+                <td class="border px-4 py-2">
+                  <strong>Workshop Title:</strong>
+                  <em>Enhancing Academic Productivity with NotebookLM</em><br />
+                  <strong>Speaker:</strong> Dr. Zaihosnita Hood (UKM)
+                </td>
+                <td class="border px-4 py-2 text-center">TBA</td>
               </tr>
             </tbody>
           </table>
@@ -136,3 +169,6 @@
     </section>
   </div>
 </template>
+
+<script setup>
+</script>

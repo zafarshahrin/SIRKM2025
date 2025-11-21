@@ -23,7 +23,7 @@
           <!-- Publication Opportunity -->
           <div class="max-w-4xl mx-auto">
             <h2 class="text-2xl font-bold text-[#1d3557] mb-2">
-              PUBLICATION OPPORTUNITY
+              TENTATIVE
             </h2>
             <div class="w-32 h-1 bg-purple-600 rounded mb-4 mx-auto"></div>
 
