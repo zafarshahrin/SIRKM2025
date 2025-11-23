@@ -94,13 +94,11 @@
                   Information Visualisation [IV]<br />
                   Artificial Intelligence [AI] & Data Science [DS]
                 </td>
-                <td class="border px-4 py-2">
+                <td class="border px-4 py-2 text-center">
                   <a
-                    href="https://tinyurl.com/Session1-SIRKM25"
-                    target="_blank"
-                    class="text-blue-600 underline"
+                    
                   >
-                    https://tinyurl.com/Session1-SIRKM25
+                    TBA
                   </a>
                 </td>
               </tr>
@@ -114,14 +112,12 @@
                   Knowledge Management [KM]<br />
                   Artificial Intelligence [AI] & Data Science [DS]
                 </td>
-                <td class="border px-4 py-2">
-                  <a
-                    href="https://tinyurl.com/Session2-SIRKM25"
-                    target="_blank"
-                    class="text-blue-600 underline"
-                  >
-                    https://tinyurl.com/Session2-SIRKM25
-                  </a>
+                <td class="border px-4 py-2 text-center">
+                  <a  >TBA</a>
+                    
+                  
+                    
+                  
                 </td>
               </tr>
 
