@@ -10,6 +10,45 @@
   <div class="relative z-10 text-center text-white"></div>
 </section>
 
+          <!-- Two-line gap -->
+<div class="h-4"></div>
+
+<!-- Download PDF Button -->
+<!-- Highlighted Download PDF Button -->
+<div class="flex justify-center mt-8">
+  <a
+    href="/EProceedings.pdf"
+    download
+    class="group relative inline-flex items-center gap-2
+           bg-gradient-to-r from-purple-700 via-purple-600 to-indigo-600
+           hover:from-purple-800 hover:to-indigo-700
+           text-white font-semibold px-4 py-2 rounded-lg
+           shadow-md hover:shadow-xl
+           transition-all duration-300 transform hover:-translate-y-0.5"
+  >
+    <!-- LATEST Badge (smaller) -->
+    <span
+      class="absolute -top-2 -right-2 bg-red-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full animate-pulse"
+    >
+      LATEST
+    </span>
+
+    <!-- Icon (smaller) -->
+    <span class="text-base group-hover:animate-bounce">⬇️</span>
+
+    <!-- Text (smaller) -->
+    <span class="text-sm tracking-wide">
+      Download E-Proceedings (PDF)
+    </span>
+  </a>
+</div>
+
+<p class="text-xs text-center text-gray-500 mt-2">
+  Updated for SIRKM 2025 • Official E-Proceedings
+</p>
+
+
+
 
     <!-- Download Buttons 
     <section class="downloads bg-white py-8 px-4 text-center">
