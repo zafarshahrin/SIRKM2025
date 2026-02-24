@@ -44,7 +44,6 @@
 </div>
 
 <p class="text-xs text-center text-gray-500 mt-2">
-  Updated for SIRKM 2025 • Official E-Proceedings
 </p>
 
 

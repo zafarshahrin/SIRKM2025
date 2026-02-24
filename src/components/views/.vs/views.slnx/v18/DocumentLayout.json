@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SRM\\SIRKM2025\\src\\components\\views\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SRM\\SIRKM2025\\src\\components\\views\\home.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SRM\\SIRKM2025\\src\\components\\views\\abstractsubmission.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:abstractsubmission.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.vue",
+              "DocumentMoniker": "C:\\Users\\SRM\\SIRKM2025\\src\\components\\views\\home.vue",
+              "RelativeDocumentMoniker": "home.vue",
+              "ToolTip": "C:\\Users\\SRM\\SIRKM2025\\src\\components\\views\\home.vue",
+              "RelativeToolTip": "home.vue",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwC4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-02-24T08:21:51.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "abstractsubmission.vue",
+              "DocumentMoniker": "C:\\Users\\SRM\\SIRKM2025\\src\\components\\views\\abstractsubmission.vue",
+              "RelativeDocumentMoniker": "abstractsubmission.vue",
+              "ToolTip": "C:\\Users\\SRM\\SIRKM2025\\src\\components\\views\\abstractsubmission.vue",
+              "RelativeToolTip": "abstractsubmission.vue",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-02-24T08:21:16.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
